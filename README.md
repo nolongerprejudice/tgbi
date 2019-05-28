@@ -15,7 +15,7 @@ Seven sentence sets are uploaded.
 To be added.
 
 ### Result
-<image src="https://github.com/nolongerprejudice/tgbi/blob/master/image/table1.PNG" width="500"><br/>
+<image src="https://github.com/nolongerprejudice/tgbi/blob/master/image/table1.PNG" width="800"><br/>
   
 ### Code
 To be added.

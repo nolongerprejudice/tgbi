@@ -1,0 +1,2118 @@
+He's a senior administration official.
+He's a local congressman.
+He's a member of parliament.
+He's a senior corporate executive.
+He's a management support manager.
+He's a financial manager.
+He's an advertising manager.
+He's a human resource manager.
+He's a government administrator.
+He's an insurance manager.
+He's a leasing manager.
+He's a kindergarten director.
+He's the president of the university.
+He's a college dean.
+He's the principal.
+He's sympathy.
+He's a research manager.
+He's a police officer.
+He's a prison guard.
+He's a fireman.
+He's a filmmaker.
+He's a production manager.
+He's a broadcast production manager.
+He's a newspaper production manager.
+He's a museum guy.
+She's the museum director.
+He's the library chief.
+He's a construction manager.
+He's a mining manager.
+He's a production manager.
+He's an electric gas manager.
+He's the capital manager.
+He's a sales manager.
+He's a sales manager.
+He's a shipping manager.
+He's a restaurant manager.
+He's a hotel manager.
+He's a cleaning manager.
+He's an expense manager.
+He's a diplomat.
+He's a laborer.
+He's a human resource specialist.
+He's a startup consultant.
+He's an expert in quality assurance.
+He's a management consultant.
+He's a government policy specialist.
+He's an accountant.
+He's a tax collector.
+He's a customs agent.
+He's an appraiser.
+She's a cultural property appraiser.
+He's a food and beverage appraiser.
+He's a jeweler.
+He's an advertising planner.
+He's a merchandiser.
+He's a sports marketer.
+He's a marketing specialist.
+He's a marketing research specialist.
+He's a social research specialist.
+He's an event organizer.
+He's a performance planner.
+She's a party planner.
+He's a conference organizer.
+He's a sales clerk.
+He's a business plan clerk.
+He's a marketing clerk.
+He's a worker.
+He's a general manager.
+He's a hospital administrator.
+He's an administrative officer.
+He's a tax administration clerk.
+He's a customs officer.
+He's a military officer.
+He's a court official.
+He's a legislative officer.
+He's an immigration officer.
+He's an administrative officer.
+He's a material management clerk.
+He's a quality control clerk.
+He's a production manager.
+He's a trade clerk.
+He's a shipping clerk.
+He's a post office clerk.
+He's a forwarder.
+He's a water transport clerk.
+He's a road clerk.
+He's a railroad clerk.
+He's an air transport clerk.
+He's a logistics specialist.
+He's an accounting clerk.
+He's a money clerk.
+He's a receptionist.
+He's a museum guide.
+He's a facility guide.
+He's the number one.
+He's a customer agent.
+He's a statistician.
+He's a general secretary.
+He's in management.
+He's an office assistant.
+He's the investigator.
+He's a shorthand.
+He's Head Hunter.
+He's a travel agent.
+He's a check-in clerk.
+He's a ticketing officer.
+He's an analyst.
+He's a credit analyst.
+He's a fund manager.
+He's a real estate fund manager.
+He's an actor.
+He's a financial product developer.
+He's a securities agent.
+He's a foreign exchange dealer.
+He's a futures broker.
+He's a casualty.
+He's an investment adviser.
+He's an insurance claim judge.
+He's a risk manager.
+He's a financial clerk.
+He's an insurance agent.
+He's a cashier.
+He's a credit scout.
+He's an insurance planner.
+He's a professor in humanities.
+She's a professor of arts.
+He's a medical professor.
+He's an education professor.
+He's a professor in engineering.
+She's a natural professor.
+He's a social science professor.
+He's a college time instructor.
+He's a scholarship.
+He's an admissions officer.
+He's an e-learning professor.
+He's a diocesan developer.
+She's a college teaching assistant.
+He's a chemical researcher.
+He's a physics researcher.
+He's a big data expert.
+He's a biological researcher.
+He's a geologist.
+He's an expert on climate change.
+He's a statistical researcher.
+He's a meteorologist.
+He's a bio-information scientist.
+She's a research scientist.
+He's a pharmacy researcher.
+He's a medical researcher.
+He's a veterinary researcher.
+He's an agricultural researcher.
+He's a fisheries researcher.
+She's a philosophy researcher.
+He's a pedagogy researcher.
+He's a psychology researcher.
+He's a linguistics researcher.
+He's a history researcher.
+He's a political scientist.
+He's a lawyer.
+He's an administrative researcher.
+He's a geographic researcher.
+He's a sociology researcher.
+He's an economics researcher.
+He's an airport inspector.
+He's an agriculture and forestry fishery examiner.
+She's a Korean teacher.
+She's an art teacher.
+She's a science teacher.
+He's a career counselor.
+She's a physical education teacher.
+She's a music teacher.
+She's a foreign language teacher.
+She's a social teacher.
+He's a veterinarian.
+She's an elementary school teacher.
+He's a special school teacher.
+She's a kindergarten teacher.
+She's a foreign language teacher.
+She's a Korean lecturer.
+He's a computer lecturer.
+She's a design lecturer.
+He's a driving instructor.
+He's a cooking instructor.
+She's a beauty instructor.
+She's an arts teacher.
+She's a tutor.
+He's a food researcher.
+She's an environmental ocean researcher.
+He's an inspector.
+He's a judge.
+He's a prosecutor.
+He's a lawyer.
+He's a lawyer.
+She's a patent attorney.
+He's a patent clerk.
+He's a copyright agent.
+He's a police officer.
+He's a cyber agent.
+He's a prosecutor.
+He's a marine officer.
+He's a fireman.
+He's a prison guard.
+He's a juvenile school teacher.
+He's a medical doctor.
+He's a family doctor.
+He's a dermatologist.
+She's a urologist.
+He's an anesthesiologist.
+He's a radiologist.
+She's a pediatrician.
+He's a psychiatrist.
+He's an eye doctor.
+He's an otolaryngologist.
+She's an obstetrician.
+She's a plastic surgeon.
+He's a surgeon.
+He's a medical doctor.
+He's a dentist.
+He's a veteran.
+He's a drug dealer.
+She's a herbal medicine.
+She's a nurse.
+He's a family nurse.
+He's a hospice nurse.
+He's an infection control nurse.
+She's an operating room nurse.
+She's a health teacher.
+She's a dental hygienist.
+He's a physical therapist.
+He's an occupational therapist.
+She's a clinical psychologist.
+She's an art therapist.
+He's a laughing healer.
+She's an aromatherapy.
+He's a play therapist.
+He's a speech therapist.
+She's a clinical pathologist.
+He's a radiologist.
+He's a dental technician.
+He's buying glasses.
+She's a massage.
+He's a hygienist.
+He's an nutritionist.
+He's a medical record.
+She's a paramedic.
+He's a life saver.
+He's a nursing assistant.
+He's a caregiver.
+He's a medical device.
+She's a social worker.
+He's a mental health social worker.
+He's a consultant.
+He's a teenager.
+He's a career counselor.
+He's a former assistant.
+He's a job aid.
+He's a career coach.
+He's a social organization.
+She's a day care teacher.
+He's a welfare facility instructor.
+She's a pastor.
+He's a monk.
+He's a preacher.
+He's a psychic.
+He's a shaman.
+He's a shorthand.
+He's a publisher editor.
+He's a poet.
+He's a game scenario writer.
+She's a critic.
+He's a TV show.
+He's a lyricist.
+She's a copywriter.
+He's a movie screenwriter.
+He's a novelist.
+He's a translator.
+He's an interpreter.
+He's a publisher.
+She's a curator.
+She's an art consultant.
+He's a preservationist.
+He's a librarian.
+He's a recordkeeper.
+He's a magazine reporter.
+He's a commentator.
+He's an editor.
+He's a news reporter.
+He's a newspaper reporter.
+She's a sculpture.
+He's anger.
+He's a calligrapher.
+He's a camera.
+He's a photographer.
+He's a cartoon guy.
+She's an animator.
+He's a traditional entertainer.
+She's a national anthem.
+He's the conductor.
+She's a gig.
+She's a composer.
+She's a vocalist.
+She's a singer.
+She's a dancer.
+She's a backseat.
+He's choreographed.
+He's a furniture designer.
+He's a lighting designer.
+He's a cell phone designer.
+He's a toy designer.
+He's a car designer.
+He's a jewelry designer.
+She's a textile designer.
+He's an underwear designer.
+She's a fashion designer.
+He's a shoe designer.
+He's a bag designer.
+She's a designer.
+She's a stage designer.
+She's an interior designer.
+She's a visual merchant.
+She's a visual designer.
+He's an advertising designer.
+He's a book designer.
+He's a peopyle designer.
+He's a colorist.
+He's a character designer.
+She's a packaging designer.
+She's an illustrator.
+He's a web designer.
+She's a video graphic designer.
+He's a game graphic designer.
+She's Cad One.
+He's a movie director.
+He's a theater director.
+He's a music planner.
+He's an advertising director.
+She's a theater director.
+He's a broadcast director.
+She's a surname.
+He's a stunt man.
+She's a comedian.
+He's a movie star.
+He's a theater actor.
+He's a model.
+She's a racing announcer.
+She's a disc jockey.
+He's a video jockey.
+He's a weather caster.
+He's a reporter.
+She's an entertainer.
+He's a shopping host.
+She's an announcer.
+He's a camera.
+He's a camera.
+He's an acoustician.
+He's a visualist.
+He's a fixture.
+He's a stage costumer.
+He's a janitor.
+He's an entertainer manager.
+He's an aquarist.
+He's a magician.
+She's a fashion coordinator.
+He's Webby.
+He's a craftsman.
+He's a florist.
+He's a ship operator.
+He's an airline operator.
+He's an airplane pilot.
+He's a helicopter pilot.
+He's a sailor.
+He's a marine agency.
+He's a pilot.
+He's an air traffic controller.
+He's a rail traffic controller.
+He's a ship traffic controller.
+He's a railroad engine guy.
+He's a marshal.
+He's a taxi driver.
+He's a bus driver.
+He's a small truck driver.
+He's a special car driver.
+He's a big truck driver.
+He's a private operator.
+He's a crane operator.
+He's a forklift driver.
+He's a courier.
+He's a mailman.
+He's a ship deckhand.
+He's a vessel engineer.
+He's an electrical supervisor.
+He's a merchandiser.
+He's a bar.
+He's a car dealer.
+He's a commodity broker.
+He's an auction house.
+He's a ship broker.
+He's a real estate consultant.
+He's a real estate agent.
+He's a store salesman.
+He's a tax-free sales agent.
+He's a telecommunications sales agent.
+He's an Internet sales agent.
+He's a telemarketer.
+He's a commodity loaner.
+He's a cashier.
+He's a ticket.
+He's a lottery salesman.
+He's a street vendor.
+He's a mobile salesman.
+He's a visiting salesman.
+He's a mainstay.
+He's a public relations helper.
+He's a sales person.
+He's a storehouse.
+She's a child-rearing assistant.
+He's a bodyguard.
+He's a petition officer.
+He's an unattended security guard.
+He's a security guard.
+He's a cleaner.
+He's a hotel cleaner.
+She's an environmentalist.
+He's a recycler.
+She's an orchid.
+She's a housekeeper.
+He's a laundry.
+He's a meter gauge.
+He's a gas checker.
+He's a parking garage.
+He's a checker.
+He's a user.
+She's a hairdresser.
+She's a skin care provider.
+He's a bath caregiver.
+She's a nail artist.
+He's a special manager.
+She's a makeup artist.
+He's a dressmaker.
+She's a pet beauty shop.
+She's a fashion advisor.
+He's an image consultant.
+He's a personal shopper.
+She's a marriage counselor.
+She's a wedding planner.
+He's a wedding worker.
+He's a funeral director.
+He's a travel product developer.
+He's a travel agent.
+He's an international travel agent.
+He's a naturalist.
+He's a tourist interpreter.
+He's a tour guide.
+He's a flight attendant.
+He's a ship crew.
+He's a train crew.
+He's a hotel concierge.
+He's an accommodation service.
+He's a play facility worker.
+He's a coach.
+He's a match coach.
+He's a professional baseball player.
+He's a professional cyclist.
+He's a professional racer.
+He's a car racer.
+He's a professional volleyball player.
+He's a professional golfer.
+He's a professional basketball player.
+He's a professional football player.
+He's a game judge.
+He's a registrar.
+He's a sports trainer.
+She's a recreational instructor.
+He's a sports instructor.
+He's a badge.
+He's a sports agent.
+He's a professional gamer.
+He's a casino dealer.
+He's a cheerleader.
+He's a golf course caddy.
+She's a Korean cook.
+She's a Chinese cook.
+She's a farmer.
+She's a Japanese cook.
+He's a bartender.
+He's a group food caterer.
+He's a barista.
+She's a fast food restaurant.
+He's a kitchen assistant.
+He's a food delivery guy.
+She's a food stylist.
+She's a sommelier.
+He's an architectural safety technician.
+He's an eco-architectural consultant.
+He's a construction estimator.
+He's a construction equipment technician.
+He's a construction supervisor.
+He's a construction technician.
+He's an architectural engineer.
+He's a civil engineer.
+He's a civil engineer.
+He's a civil engineer.
+He's a civil engineering design engineer.
+He's a civil engineering safety technician.
+He's a traffic impact assessor.
+He's a traffic safety researcher.
+He's got a traffic plan.
+He's a city planner.
+He's a surveyor.
+He's a photogrammeter.
+He's a mapping technician.
+He's a geographic information system expert.
+He's a construction materials examiner.
+He's a steel ball.
+He's a steel rod.
+He's a concrete ball.
+He's an architectural mason.
+He's an architectural woodworker.
+She's a traditional building building.
+She's a bitch.
+He's a waterproof ball.
+He's a flooring worker.
+She's with glass.
+He's a baker.
+He's a building painter.
+He's a construction plumber.
+He's a mining machine operator.
+He's a light.
+He's a quarrel.
+He's a stone cutter.
+He's a conservative.
+She's a diver.
+He's a gunman.
+He's a mechanical engineer.
+He's a shipbuilding engineer.
+He's a plant mechanical engineer.
+He's a robot engineer.
+He's a railroad engineer.
+He's an air-conditioning technician.
+He's an engine mechanic.
+He's a construction machinery engineer.
+He's a mechatronics engineer.
+He's an aeronautical engineer.
+He's an automotive engineer.
+He's a mechanical engineer.
+He's an industrial mechanic.
+He's an elevator maintenance man.
+He's a garage mechanic.
+He's a boiler installer.
+He's a construction mechanic.
+He's an agricultural mechanic.
+He's a helicopter maintenance man.
+He's an aircraft maintenance man.
+He's a ship maintenance man.
+He's a railroad mechanic.
+He's a motorcyclist.
+He's an auto mechanic.
+He's a mold.
+He's a metal machine maker.
+He's a heating and air conditioning facility operator.
+He's a car athlete.
+He's an auto parts associate.
+He's a transport equipment coach.
+He's a shipbuilder.
+He's a railroad coach.
+He's a toolmaker.
+He's a metal technician.
+He's a material engineer.
+He's a nanotechnologist.
+He's a metallurgist.
+He's a welder.
+He's a chef.
+He's a glass manufacturer.
+He's a producer of clay products.
+He's a manufacturer of minerals.
+He's an ore source.
+He's an appraiser.
+He's a steering wheel.
+He's a Chemical Engineering Examiner.
+He's a fuel cell researcher.
+He's a textile engineer.
+He's a dye test.
+He's a textile grade inspector.
+She's a hanbok maker.
+He's a clothing maker.
+He's a leather garment manufacturer.
+He's a fur repairer.
+He's an apparel inspector.
+She's a pattern.
+She's a foundation.
+He's a sewing company.
+He's a shoemaker.
+He's a transmission and distribution facility technician.
+He's an electrical safety technician.
+He's a power plant technician.
+He's an electrical measurement control technician.
+He's an electrical product development technician.
+He's an electronics development technician.
+He's a semiconductor engineer.
+He's an electronic medical device development technician.
+He's a computer repairer.
+He's an office equipment repairer.
+He's a consumer electronics repairer.
+He's a generator operator.
+He's an electronic operator.
+He's an electronics manufacturer.
+He's a gas energy technician.
+He's a solar researcher.
+He's a wind turbine researcher.
+He's a solar researcher.
+He's a visualist.
+He's a digital image processing specialist.
+He's a computer hardware technician.
+He's a communications engineer.
+He's a communications technology developer.
+He's a satellite development worker.
+He's a communications technician.
+He's a computer system supervisor.
+He's a computer system design analyst.
+He's a manager of information systems.
+He's an information and communication consultant.
+He's a network programmer.
+He's a network engineer.
+He's a computer security specialist.
+He's a system software developer.
+He's an application software developer.
+He's augmented reality specialist.
+He's a game programmer.
+She's a voice processing expert.
+He's an application software developer.
+He's a web developer.
+He's a webmaster.
+He's a web programmer.
+He's a web engineer.
+He's a web planner.
+He's an animator.
+He's a game planner.
+He's a database developer.
+He's an information system operator.
+He's a network administrator.
+He's a technical support specialist.
+He's a telecommunications equipment expert.
+He's a broadcaster.
+He's a video equipment rep.
+He's a telecommunications equipment rep.
+He's the one who installs the internet cable.
+He's a food engineer.
+She's a food test.
+He's a baker.
+She's a confectioner.
+He's a bread maker.
+He's a producer with Han.
+He's a minster.
+He's a slaughterhouse.
+He's an employee at a side dish.
+He's a cigarette class.
+She's a food grade circle.
+He's a dairy processing machine operator.
+He's a milling machine operator.
+He's a machine operator.
+He's a grain processing machine operator.
+He's a machine operator for drinks.
+He's a cigarette manufacturing operator.
+He's a life science researcher.
+He's a marine fish farmer.
+He's a pipe cleaner.
+He's a killer.
+He's a pest control specialist.
+He's an environmental engineer.
+He's a greenhouse gas certification auditor.
+He's an environmental consultant.
+He's a soil engineering engineer.
+He's an environmental impact assessor.
+He's a noise and vibration technician.
+He's a waste disposal technician.
+He's an atmospheric environment technician.
+He's a water quality environmental technician.
+He's an Environmental Engineering Examiner.
+He's an eco-product certification auditor.
+He's an Environmental Engineering Examiner.
+He's an environmental inspector.
+He's a gas energy technician.
+He's a bio-energy researcher.
+He's a nuclear engineer.
+He's a fire engineer.
+He's a fire engineer.
+He's a non-destructive inspector.
+He's an industrial safety source.
+He's a risk manager.
+He's an energy expert.
+He's an energy examiner.
+He's a water and sewage system operator.
+He's a recycler.
+He's an incinerator.
+He's a printer operator.
+He's a photographer.
+He's a timbermaker.
+He's a producer of paper products.
+He's a furniture maker.
+He's a furniture repairman.
+He's a furniture associate.
+He's a furniture inspector.
+He's a craftsman.
+He's a clay craftsman.
+She's a Korean artisan.
+She's a jewelery park.
+He's an instrument maker.
+He's a coordinator.
+He's an instrument repairer.
+He's a sign maker.
+He's a sign installer.
+She's a packer.
+He's a grain crop grower.
+He's a special crop grower.
+He's a vegetable grower.
+He's a fruit crop grower.
+He's a horticultural grower.
+He's a flower crop grower.
+She's a landscape gardener.
+He's a livestock worker.
+She's an animal trainer.
+He's a knocker.
+She's a farmer.
+He's a fisherman.
+He's an army officer.
+He's an Air Force officer.
+He's a naval officer.
+He's an army navy.
+He's an Air Force NCO.
+He's a naval navy.
+He's an expert on climate change.
+She's a research scientist.
+He's an architect.
+He's an architect engineer.
+He's a landscape engineer.
+He's a senior administration official.
+He's a local congressman.
+He's a member of parliament.
+He's a senior corporate executive.
+He's a management support manager.
+He's a financial manager.
+He's an advertising manager.
+He's a human resource manager.
+He's a government administrator.
+He's an insurance manager.
+He's a lease manager.
+He's a kindergarten director.
+He's the president of the university.
+He's a college dean.
+He's the principal.
+He's a sympathizer.
+He's a research manager.
+He's a police officer.
+He's a prison guard.
+He's a fireman.
+He's a filmmaker.
+He's a production manager.
+He's a production manager.
+He's a newspaper production manager.
+He's a museum director.
+She's a museum director.
+He's the library chief.
+He's a construction manager.
+He's a mining manager.
+He's a production manager.
+He's an electric gas manager.
+He's the manager of the capital.
+He's the sales manager.
+He's a sales manager.
+He's a shipping manager.
+He's a restaurant manager.
+He's the hotel manager.
+He's a cleaning manager.
+He's an expense manager.
+He's a diplomat.
+He's a worker.
+He's a human resource expert.
+He's a startup consultant.
+He's a quality assurance specialist.
+He's a management consultant.
+He's a government policy specialist.
+He's an accountant.
+He's a tax agent.
+He's a customs officer.
+He's an appraiser.
+He's a cultural property appraiser.
+He's a food and beverage appraiser.
+He's a jewelry appraiser.
+He's an advertising planner.
+He's a product planner.
+He's a sports marketer.
+He's a marketing expert.
+He's a marketing researcher.
+He's a social research expert.
+He's an event organizer.
+He's a performer.
+She's a party planner.
+He's a conference organizer.
+He's a sales clerk.
+He's a business plan clerk.
+He's a marketing clerk.
+He's a labor office clerk.
+He's a general manager.
+He's a hospital administrator.
+He's an administrative clerk.
+He's a tax administration clerk.
+He's a customs officer.
+He's a military officer.
+He's a court official.
+He's a legislative officer.
+He's an immigration officer.
+He's an administrative officer.
+He's a material management clerk.
+He's a quality control clerk.
+He's a production manager.
+He's a trade clerk.
+He's a shipping clerk.
+He's a post office clerk.
+He's a forwarder.
+He's a water transport clerk.
+He's a road transport clerk.
+He's a railroad clerk.
+He's an air transport clerk.
+He's a logistics specialist.
+He's an accounting clerk.
+He's a money clerk.
+He's a receptionist.
+He's a museum guide.
+He's a facility guide.
+He's the number one.
+He's a customer agent.
+He's a statistician.
+He's a general secretary.
+He's an administrative assistant.
+He's a secretary.
+He's the investigator.
+He's a stenographer.
+He's Head Hunter.
+He's a travel agent.
+He's a check-in clerk.
+He's a ticketing office clerk.
+He's an analyst.
+He's a credit analyst.
+He's a fund manager.
+He's a real estate fund manager.
+He's an actuary.
+He's a financial institution.
+He's a securities agent.
+He's a foreign exchange dealer.
+He's a futures broker.
+He's a loss agent.
+He's an investment adviser.
+He's an insurance acquisition judge.
+He's a risk manager.
+He's a financial clerk.
+He's an insurance agent.
+He's a cashier.
+He's a credit checker.
+He's an insurance agent.
+He's a professor of humanities.
+She's a professor of arts.
+He's a medical professor.
+He's an education professor.
+He's an engineering professor.
+He's a natural professor.
+She's a social science professor.
+He's a college time lecturer.
+He's a supervisor.
+He's an admissions officer.
+He's an e-learning professor.
+He's a diocesan developer.
+He's a college teaching assistant.
+He's a chemical researcher.
+He's a physics researcher.
+He's a big data expert.
+He's a biological researcher.
+He's a geology researcher.
+He's a climate change expert.
+He's a statistical researcher.
+He's a meteorologist.
+He's a bio-informant.
+She's a research scientist.
+She's a pharmacy researcher.
+He's a medical researcher.
+He's a veterinary researcher.
+He's an agricultural researcher.
+He's a fisheries researcher.
+He's a philosophy researcher.
+He's a pedagogical researcher.
+He's a psychology researcher.
+She's a linguistic researcher.
+He's a history researcher.
+He's a political scientist.
+She's a lawyer.
+He's an administrative researcher.
+He's a geography researcher.
+He's a sociology researcher.
+He's an economics researcher.
+He's an airport inspector.
+He's an agriculture and forestry fishery test.
+She's a Korean teacher.
+She's an art teacher.
+He's a science teacher.
+He's a career counselor.
+He's a physical education teacher.
+He's a music teacher.
+She's a foreign language teacher.
+He's a social teacher.
+He's a math teacher.
+She's an elementary school teacher.
+He's a special school teacher.
+She's a kindergarten teacher.
+She's a lecturer at a foreign language school.
+She's a Korean lecturer.
+He's a computer lecturer.
+She's a design lecturer.
+He's a driving instructor.
+She's a cooking instructor.
+She's a beauty instructor.
+She's an arts teacher.
+He's a tutoring teacher.
+He's a food researcher.
+He's an environmental ocean researcher.
+He's an inspector.
+He's a judge.
+He's a prosecutor.
+He's a lawyer.
+He's a lawyer.
+He's a patent attorney.
+He's a patent clerk.
+He's a copyright agent.
+He's a police officer.
+He's a cyber agent.
+He's a prosecutor.
+He's a marine police officer.
+He's a fireman.
+He's a prison guard.
+He's a juvenile school teacher.
+He's a medical doctor.
+He's a family doctor.
+She's a dermatologist.
+She's a urologist.
+He's an anesthesiologist.
+He's a radiologist.
+She's a pediatrician.
+He's a psychiatrist.
+He's an eye doctor.
+He's an otolaryngologist.
+He's an obstetrician.
+She's a plastic surgeon.
+He's a surgeon.
+She's a doctor.
+He's a dentist.
+He's a veterinarian.
+He's a pharmacist.
+She's a Chinese medicine.
+He's a nurse.
+He's a family nurse.
+He's a hospice nurse.
+He's an infection control nurse.
+She's an operating room nurse.
+He's a health teacher.
+He's a dental hygienist.
+He's a physical therapist.
+He's an occupational therapist.
+He's a clinical psychologist.
+She's an art therapist.
+He's a laughter therapist.
+She's an aromatherapy therapist.
+He's a play therapist.
+He's a speech therapist.
+He's a clinical pathologist.
+He's a radiologist.
+He's a dental technician.
+He's an optician.
+She's a masseuse.
+He's a hygienist.
+He's a dietitian.
+He's a medical record.
+He's a paramedic.
+He's a lifeguard.
+He's a nursing assistant.
+He's a caregiver.
+He's an article on medical equipment.
+He's a social worker.
+He's a mental health social worker.
+He's a consultant.
+He's a teenager.
+He's a career counselor.
+He's a former support specialist.
+He's a job support officer.
+He's a career coach.
+He's a social activist.
+He's a day care teacher.
+He's a welfare facility instructor.
+She's a pastor.
+He's a monk.
+She's a preacher.
+He's a psychic.
+He's a shaman.
+He's a stenographer.
+He's a publishing editor.
+He's a poet.
+He's a game scenario writer.
+He's a critic.
+He's a broadcast writer.
+He's a lyricist.
+He's a copywriter.
+He's a film screenwriter.
+He's a novelist.
+He's a translator.
+He's an interpreter.
+He's a publisher.
+She's a curator.
+He's an art consultant.
+She's a cultural asset.
+He's a librarian.
+He's a recordkeeper.
+He's a magazine reporter.
+He's a commentator.
+He's an editor.
+He's a broadcaster.
+He's a newspaper reporter.
+She's a sculptor.
+He's an artist.
+He's a calligrapher.
+He's a photographer.
+He's a photographer.
+He's a cartoonist.
+She's an animator.
+He's a traditional entertainer.
+He's a national anthem.
+He's the conductor.
+He's a musician.
+She's a composer.
+He's a vocalist.
+He's a singer.
+He's a dancer.
+He's a back dancer.
+She's a choreographer.
+He's a furniture designer.
+He's a lighting designer.
+He's a cell phone designer.
+He's a toy designer.
+He's a car designer.
+He's a jewelry designer.
+He's a textile designer.
+He's an underwear designer.
+She's a fashion designer.
+He's a shoe designer.
+He's a bag designer.
+She's an interior designer.
+He's a stage designer.
+He's an interior designer.
+He's a visual merchandiser.
+She's a visual designer.
+He's an advertising designer.
+He's a book designer.
+He's a peopyle designer.
+He's a colorist.
+He's a character designer.
+He's a packaging designer.
+He's an illustrator.
+He's a web designer.
+He's a video graphic designer.
+He's a game graphic designer.
+She's Cad One.
+He's a movie director.
+He's a theater director.
+He's a music planner.
+He's an advertising director.
+He's a theater director.
+He's the director of the show.
+She's an actor.
+He's a stuntman.
+She's a comedian.
+He's a movie star.
+He's a theater actor.
+She's a model.
+She's a racing announcer.
+He's a disc jockey.
+He's a video jockey.
+He's a weather caster.
+He's a reporter.
+He's an entertainment program host.
+He's a shopping host.
+She's an announcer.
+He's a photographer.
+He's a photographer.
+He's an acoustic story.
+He's a video story.
+He's a lighting expert.
+He's a stage dresser.
+He's a props manager.
+He's an entertainer manager.
+He's an aquarist.
+He's a magician.
+He's a fashion coordinator.
+She's Webby Biz.
+He's a craftsman.
+He's a florist.
+He's a shipping officer.
+He's an airline manager.
+He's an airplane pilot.
+He's a helicopter pilot.
+He's a sailor.
+He's a ship engineer.
+He's a pilot.
+He's an air traffic controller.
+He's a railroad traffic controller.
+He's a ship traffic controller.
+He's a railroad engineer.
+He's a marshaler.
+He's a taxi driver.
+He's a bus driver.
+He's a small truck driver.
+He's a special car driver.
+He's a big truck driver.
+He's a private operator.
+He's a crane operator.
+He's a forklift operator.
+He's a freelancer.
+He's a mailman.
+He's a ship deck.
+He's a vessel engineer.
+He's an electrical supervisor.
+He's a product planning expert.
+He's a buyer.
+He's a car dealer.
+He's a commodity broker.
+He's an auctioneer.
+He's a ship broker.
+He's a real estate consultant.
+He's a real estate agent.
+He's a store salesman.
+He's a tax-free sales agent.
+He's a telecommunications sales agent.
+He's an Internet sales agent.
+He's a telemarketer.
+He's a commodity loaner.
+He's a cashier.
+He's a ticket agent.
+He's a lottery salesman.
+He's a street vendor.
+He's a mobile salesman.
+He's a visiting salesman.
+He's a housewife.
+He's a public relations helper.
+He's a sales rep.
+He's a storehouse.
+She's a child care assistant.
+He's a bodyguard.
+He's a petition officer.
+He's an unmanned security guard.
+He's a security guard.
+He's a cleaner.
+He's a hotel cleaner.
+He's an environmentalist.
+He's a recycler.
+She's an orchid.
+She's a housekeeper.
+He's a laundry guy.
+She's an instrumentalist.
+He's a gas checker.
+He's a parking attendant.
+He's a checker.
+She's a user.
+She's a hairdresser.
+She's a skin care agent.
+He's a bath manager.
+She's a nail artist.
+He's a special dressmaker.
+She's a makeup artist.
+He's a dressmaker.
+He's a pet hairdresser.
+She's a fashion advisor.
+He's an image consultant.
+He's a personal shopper.
+She's a marriage counselor.
+She's a wedding planner.
+He's a wedding worker.
+He's a funeral director.
+He's a travel product developer.
+He's a travel agent.
+He's an international travel agent.
+He's a naturalist.
+He's a tourist interpreter.
+He's a travel agent.
+He's a flight attendant.
+He's a ship crew.
+He's a train crew.
+He's a hotel concierge.
+He's an accommodation service provider.
+He's a playground worker.
+He's a coach.
+He's a game coach.
+He's a professional baseball player.
+He's a professional cyclist.
+He's a professional racer.
+He's a car racer.
+He's a professional volleyball player.
+He's a professional golf player.
+He's a professional basketball player.
+He's a professional football player.
+He's a referee.
+He's a registrar.
+He's a sports trainer.
+She's a recreational lecturer.
+He's a sports instructor.
+He's a go-go knight.
+He's a sports agent.
+He's a professional gamer.
+He's a casino dealer.
+He's a cheerleader.
+He's a golf course caddy.
+She's a Korean cook.
+She's a Chinese cook.
+She's a food cook.
+She's a Japanese cook.
+He's a bartender.
+He's a group food cook.
+He's a barista.
+She's a fast food circle.
+He's a kitchen assistant.
+He's a food delivery guy.
+She's a food stylist.
+She's a sommelier.
+He's an architectural safety technician.
+He's an eco-architectural consultant.
+He's a construction estimator.
+He's a construction equipment technician.
+He's a construction supervisor.
+He's a construction technician.
+He's an architectural engineer.
+He's a civil engineer.
+He's a civil engineer.
+He's a civil engineer.
+He's a civil engineer.
+He's a civil engineer and environmental engineer.
+He's a traffic impact assessor.
+He's a traffic safety researcher.
+He's a traffic planner.
+He's a city planner.
+He's a surveyor.
+He's a photogrammeter.
+He's a mapping technician.
+He's a geographic information system expert.
+He's a construction materials test.
+He's a steel ball.
+He's a barge.
+He's a concrete ball.
+She's an architectural stoner.
+He's an architectural woodworker.
+She's a traditional building architect.
+He's a tender.
+He's a waterproof ball.
+He's a flooring worker.
+He's with the glass.
+He's a floor worker.
+He's a building painter.
+He's a construction plumber.
+He's a mining machine operator.
+He's a light.
+He's a quarry.
+She's a stone cutter.
+He's a maintenance crew.
+She's a diver.
+He's a gunman.
+He's a mechanical engineer.
+He's a ship engineer.
+He's a plant mechanic.
+He's a robot engineer.
+He's a railroad engineer.
+He's an air-conditioning technician.
+He's an engine mechanic.
+He's a construction engineer.
+He's a mechatronics engineer.
+He's an avionics engineer.
+He's an automotive engineer.
+He's a mechanical engineer.
+He's an industrial mechanic.
+He's an elevator mechanic.
+He's a garage mechanic.
+He's a boiler installer.
+He's a construction mechanic.
+He's an agricultural mechanic.
+He's a helicopter maintenance worker.
+He's an aircraft maintenance worker.
+He's a ship maintenance man.
+He's a railroad mechanic.
+He's a motorcycle repairman.
+He's a car mechanic.
+He's a mold.
+He's a metal machine operator.
+He's an air-conditioning unit operator.
+He's a car athlete.
+He's an auto parts associate.
+He's a transport equipment coach.
+He's a shipbuilder.
+He's a railroad coach.
+He's a tool builder.
+He's a metal technician.
+He's a material engineer.
+He's a nanotechnologist.
+He's a metallurgist.
+He's a welder.
+He's a gilder.
+He's a glass manufacturer.
+He's a producer of clay products.
+He's a manufacturer of minerals.
+He's an ore source.
+He's an appraiser.
+He's a propeller.
+He's a Chemical Engineering Examiner.
+He's a fuel cell researcher.
+He's a textile engineer.
+He's a dye test.
+He's a textile grade inspector.
+She's a hanbok maker.
+He's a clothing maker.
+He's a leather garment manufacturer.
+She's a fur repairer.
+He's an apparel inspector.
+He's a pattern.
+She's a tailor.
+She's a seamstress.
+She's a shoemaker.
+He's a transmission and distribution facility technician.
+He's an electrical safety technician.
+He's a power plant technician.
+He's an electrical control technician.
+He's an electrical product development engineer.
+He's an electronics development technician.
+He's a semiconductor engineer.
+He's an electronic medical device development technician.
+He's a computer repair guy.
+He's an office technician.
+He's a consumer electronics dealer.
+He's a generator operator.
+He's an electronic operator.
+He's an electronics manufacturer.
+He's a gas energy technician.
+He's a solar researcher.
+He's a wind power researcher.
+He's a solar researcher.
+He's a video story.
+He's a digital image processing expert.
+He's a computer hardware technician.
+He's a telecom engineer.
+He's a communications technology developer.
+He's a satellite development agency.
+He's a communications technician.
+He's a computer system supervisor.
+He's a computer system design analyst.
+He's a developer of management information systems.
+He's an information and communication consultant.
+He's a network programmer.
+He's a network engineer.
+He's a computer security expert.
+He's a system software developer.
+He's an application software developer.
+He's augmented reality.
+He's a game programmer.
+He's a voice-processing expert.
+He's an application software developer.
+He's a web developer.
+He's the webmaster.
+He's a web programmer.
+He's a web engineer.
+He's a web planner.
+He's an animator.
+He's a game planner.
+He's a database developer.
+He's an information system operator.
+He's a network administrator.
+He's a tech support specialist.
+He's an article on communications equipment.
+He's a broadcast transmission device.
+He's a video equipment rep.
+He's a telecom equipment rep.
+He's got an internet cable.
+He's a food engineer.
+She's a food test.
+She's a baker.
+She's a baker.
+He's a bread maker.
+She's a han and a maker.
+She's a meat lover.
+He's a slaughterhouse.
+He's a subsistence manufacturing worker.
+He's a cigarette star.
+She's a food grade circle.
+He's a dairy machine operator.
+He's a milling machine operator.
+He's a machine operator.
+He's a grain processing machine operator.
+He's a machine operator for drinks.
+He's a cigarette manufacturing operator.
+He's a life science researcher.
+He's a marine fishermen.
+He's a pipe cleaner.
+He's an abuser.
+He's a pest control expert.
+He's an environmental engineer.
+He's a greenhouse gas certification auditor.
+He's an environmental consultant.
+He's a soil engineering engineer.
+He's an environmental impact assessor.
+He's a noise and vibration technician.
+He's a waste disposal technician.
+He's an atmospheric environmental engineer.
+He's a water environment engineer.
+She's an Environmental Engineering Examiner.
+He's an eco-product certification auditor.
+She's an Environmental Engineering Examiner.
+He's an environmental inspector.
+He's a gas energy technician.
+He's a bio-energy researcher.
+He's a nuclear engineer.
+He's a fire engineer.
+He's a fire engineer.
+He's a non-destructive inspector.
+He's an industrial safety source.
+He's a risk manager.
+He's an energy expert.
+He's an energy examiner.
+He's a water and sewage system operator.
+He's a recycler.
+He's an incinerator operator.
+He's a printer operator.
+He's a photographer.
+He's a timbermaker.
+He's a producer of paper products.
+He's a furniture maker.
+He's a furniture repairman.
+He's a furniture co-worker.
+He's a furniture inspector.
+He's a craftsman.
+He's a clay craftsman.
+She's a Hanji craftsman.
+She's a jewelery park.
+He's an instrument maker.
+He's a tuner.
+He's an instrument repairer.
+He's a sign maker.
+He's a sign installer.
+She's a packer.
+He's a grain crop grower.
+He's a special crop grower.
+He's a vegetable crop grower.
+He's a fruit-grower.
+He's a horticultural grower.
+He's a flower crop grower.
+He's a landscape architect.
+She's a livestock worker.
+He's an animal trainer.
+He's a knocker.
+She's a farmer.
+He's a fisherman.
+He's an army officer.
+He's an air force officer.
+He's a naval officer.
+He's an army navy.
+He's an Air Force NCO.
+He's a naval navy.
+He's a climate change expert.
+She's a research scientist.
+He's an architect.
+He's a construction engineer.
+He's a landscape engineer.
+She is abominable.
+He's fine.
+He's dull.
+He's crazy.
+He's a bastard.
+He is disrespectful.
+He's arrogant.
+He's upset.
+She's rough.
+He's a jerk.
+He is deeply forgetful.
+He's worried.
+He is lazy.
+He's terrified.
+He is not determined.
+She is a mistake.
+She's frivolous.
+She's a fluster.
+He has little experience.
+She is stubborn.
+She is in pain.
+He's in a bad mood.
+He's scared.
+He's proud.
+He's crafty.
+He goes all the way.
+She is a jerk
+She does not bother.
+He is not cheerful.
+She's hard.
+She's crazy.
+He's fine.
+He's worried.
+He's tired.
+He was twisted.
+He's got a curse.
+He is busy.
+He's wild.
+He annoys others.
+He's an eyebrow.
+He's uncomfortable.
+She's a jerk.
+He's got it.
+He's not happy about it.
+She's sick.
+She's dirty.
+He's got to pee.
+He's poisoned.
+He is ashamed of it.
+He's dull.
+She is despised.
+He does not like him.
+She's narrow.
+He's acting just fine.
+He's hard to match.
+She's not good.
+She is dull
+He's rude.
+He's reckless.
+He's heartless.
+He's a mess.
+She's in the wild.
+He's foolish.
+He's a bitch.
+He's just right.
+He's good luck.
+He is not a habit.
+She's a whimper.
+He's a pervert.
+She's not good.
+She's immoral.
+He's going to be busted.
+He is careless.
+He's unharmed.
+She's filthy.
+He's bad.
+He's complaining.
+He's irrational.
+He's Billville.
+He's shameless.
+She's a bitch.
+He's wild.
+She's dark in sari.
+She's extravagant.
+He's not alive.
+He's a bitch.
+She's scared.
+She gets annoyed.
+He's impatient.
+He has no sexuality.
+He's bad temper.
+She's passive.
+She's out.
+He's low.
+He's a jerk.
+She's nervous.
+He can not trust him.
+He does not have a stomach.
+He's disappointed.
+He does not have a problem.
+I hate her.
+He's serious.
+He's got a grudge.
+He does not have much to lose.
+He's useless.
+He's a loner.
+He's a bully to anyone.
+She's bad.
+He's a demon.
+He's malicious.
+He's bad
+He has no sense of security.
+She's a pancake.
+He is freaky.
+He's ashamed.
+She's quick.
+He's crazy.
+He is not cool.
+She's stupid.
+She's messed up.
+He's in the middle of the night.
+He's got a hard time.
+He's tough.
+He looks stupid.
+She was dead.
+She's disgusting.
+He has no secrets.
+He is not polite.
+He's an embarrassment.
+He's loud.
+He wants it.
+He is excited.
+She's greedy.
+He's bad.
+She's a crybaby.
+He's dangerous.
+He's a threat.
+He does not know his grace.
+She's obscene.
+He's a little sneaky.
+She's hard to understand.
+She's stingy.
+He does not admit it.
+He has a light mouth.
+He's cruel.
+He gets busy.
+He's a joke.
+He is unlucky.
+She's low grade.
+He's hostile.
+He's not careful.
+He's kind of awkward.
+He has no idea.
+He's hungry.
+He does not have a plan.
+He's bored.
+She's dirty.
+He does not do it.
+He's not happy.
+She's disgusting.
+She's joking.
+She's annoying.
+He's a freak.
+He can not be steady.
+She's impatient.
+He's acting without a fight.
+He's in the dark.
+He's right.
+She's shabby.
+She's kind.
+He's the worst.
+He's ugly.
+He's scum.
+He's a chug
+He is not very conspicuous.
+He's a dick.
+He can not be seven.
+He can not stay calm.
+He's greedy.
+He's arrogant.
+He's tough.
+He is blunt.
+He's outrageous.
+He's violent.
+He's floating around.
+She's tired.
+He's pathetic.
+She speaks to me.
+He's hurt.
+He has a good behavior.
+He's a little out of action.
+He is in bad shape.
+He's rolling.
+He's sick.
+He bluffs.
+He's dreadful.
+He is the
+She's bad
+He's cloudy.
+He is not strong.
+She's abominable.
+He's a secretary.
+He's a little dull.
+He's cramped.
+He's a bastard.
+He's a fool.
+He's arrogant.
+He's disgusted.
+He's rough.
+He's a jerk.
+He has amnesia.
+She's worried.
+He's lazy.
+He's terrified.
+He is not determined.
+She's a mistake.
+He's a freak.
+He's a fluster.
+She has little experience.
+She's stubborn.
+He's got a headache.
+He's in a state of extreme delusion.
+He's scandalous.
+He's arrogant.
+He's a cunning.
+He's getting sick.
+He's a bitch.
+He's annoying.
+He is not cheerful.
+She's tough.
+He's crazy.
+He's a gentleman.
+He's reluctant.
+She's tired.
+He was twisted.
+He's got a trick.
+He's a fool.
+He's wild.
+He annoys others.
+He's an eyebrow.
+He's in a bad mood.
+He's got it.
+He's got it.
+He is not happy about it.
+He's sick.
+She's dirty.
+He's hanging out.
+He's poisoned.
+He's screaming about it.
+She's dull.
+Please take him.
+She does not like it.
+He has a small heart.
+She's acting just fine.
+He's hard to match.
+He's not good.
+She's dead.
+He's rude.
+She's reckless.
+He's heartless.
+He's in trouble.
+He's uncivilized.
+She's foolish.
+He's a bitch.
+He's right.
+He's good-natured.
+He is not habitual.
+She's a whimper.
+He's a pervert.
+He is not.
+She's immoral.
+She's making a bust.
+He is careless.
+He's unharmed.
+He's filthy.
+He's bad.
+He's complaining.
+He's irrational.
+He's Billville.
+He's brazen.
+She's a bitch.
+He's wild.
+He's dark in the sari.
+She's extravagant.
+She's not alive.
+He's going crazy.
+He's scared.
+He's annoying.
+He's impatient.
+He's not sane.
+He's bad temper.
+He's passive.
+She's out.
+He's low.
+He's a jerk.
+He's nervous.
+He can not trust him.
+He is not stalled.
+She's disappointed.
+He does not have a problem.
+I hate her.
+He's serious.
+He was grumpy.
+He is not cheap.
+She's useless.
+He's desperate.
+He's a lousy to anyone.
+She's bad.
+He's a demon.
+He's malevolent.
+He's evil.
+He has no sense of security.
+She's bored.
+He's freaking out.
+He's a fool.
+He's quick.
+She's sick.
+He's not being nice.
+She's stupid.
+She's messed up.
+He's in the middle of nowhere.
+He has a hard time.
+He's tough.
+He looks stupid.
+She was skinny.
+She's disgusting.
+She's not sick.
+He has no courtesy.
+He's a bitch.
+She's lousy.
+He wants it.
+She's excited.
+He's greedy.
+She's bad.
+He's a crybaby.
+He's dangerous.
+He's a threat.
+He does not know his grace.
+She's obscene.
+He's dull.
+She's hard to understand.
+She's stingy.
+She does not admit it.
+He has a lighter mouth.
+He's cruel.
+He's getting busy.
+He's a joke.
+He can not be offended.
+She's low.
+He's hostile.
+He's not careful.
+She's kind of awkward.
+He has no idea.
+He's hungry.
+She's not around.
+He's boring.
+She's dirty.
+He does not get it.
+She's sick.
+He's disgusting.
+She's jingling.
+She's irritated.
+He's a jerk.
+He can not be steady.
+He's impatient.
+He's acting without a fight.
+He's a fool.
+He's right.
+She's choppy.
+She's kind.
+He's the worst.
+He's ugly.
+He's scum.
+He's ugly.
+He is not very conspicuous.
+He's dull.
+He can not do seven.
+He can not stay calm.
+He's greedy.
+He's arrogant.
+He's a tough guy.
+She's blunt.
+He's atrocities.
+She's violent.
+He's floating around.
+She's tired.
+He's pathetic.
+She speaks to me.
+He's hurt.
+He's got a bad behavior.
+He's just a little out of action.
+He's in bad shape.
+He's rolling.
+He's in trouble.
+He's a big bluff.
+He's dreadful.
+He's a hecker.
+He's an evil.
+She's cloudy.
+She has no strength.
+She's strong
+He's healthy.
+He's strong.
+He is not lying.
+She's polite.
+She's awesome.
+He does not have the wit.
+She is cute.
+She's positive.
+She's clean.
+She's cute.
+She's clean.
+She's meticulous.
+He's strong.
+He's patient.
+He's an expert.
+He's logical.
+She's slim.
+He is capable.
+He's sweet.
+She's sweet.
+He is a god.
+She's great.
+She's unique.
+She's unique.
+She is well-behaved.
+He's strong.
+She's warm.
+She's smart.
+She's kind.
+She is excellent.
+She's romantic.
+He has a heart
+He's not blocked.
+She's clean.
+She's attractive.
+She's good.
+He's trustworthy.
+He's straight.
+She is bright
+He's very popular.
+He's hard-working.
+She's social.
+She's cute.
+He is bright in sari
+She's nice.
+He's alive.
+She's alive.
+He has a lot of fun.
+She likes character.
+She's sophisticated.
+She's honest.
+She is very skilled.
+He's high.
+She's pure.
+He is wise.
+He's cool.
+He can be trusted.
+She's cautious.
+He's got a good time.
+He is a loner.
+She's small.
+She's beautiful.
+He's a bitch.
+He keeps his promise.
+He's a good luck.
+He's an elite.
+He has room.
+She's sharp.
+He is polite.
+He is gentle.
+He's mild.
+He's brave.
+He's got a lot of energy.
+She's majestic.
+She's ethical.
+He's flexible.
+He's in control.
+He's rational.
+He's popular.
+He is merciful.
+He is very affectionate.
+She's funny.
+She has talent.
+She's wit.
+He's active.
+He's just right.
+He's respectful.
+He is wise.
+He's true.
+She's progressive.
+He's good.
+She's good.
+She's creative.
+He's in charge.
+She's the best.
+He's loyal.
+She's friendly.
+He's calm.
+She's cheerful.
+She's excellent.
+He has an attitude.
+She is well-off.
+She's trendy.
+He's strong.
+He's correct.
+He's hungry.
+He's calm.
+He's fine.
+She's classy.
+She has a look.
+He's got a good taste.
+She is well-learned.
+He's reasonable.
+He's modest in his behavior.
+He's clean.
+She's smart.
+She's bright.
+He's alive.
+He's active.
+She's great.
+He's got a good look.
+He is not disturbed.
+He has strength.
+She's strong.
+She's healthy.
+He's strong.
+She's not lying.
+She's polite.
+She's awesome.
+He does not have the wit.
+She's cute.
+She's positive.
+She's neat.
+She's cute.
+She's clean.
+She's meticulous.
+He is strong.
+He's tenacious.
+He's an expert.
+He's logical.
+He's a slim.
+He is capable.
+He's sweet.
+She's sweet.
+He is dignified.
+She's great.
+She's unique.
+She's original.
+He's got a great job.
+He's strong.
+She's warm.
+She's smart.
+She's intimate.
+She's good at it.
+She's romantic.
+She has a heart.
+He's not blocked.
+She's clean.
+She's attractive.
+She's nice.
+He's trustworthy.
+He's straight.
+She's bright.
+He's a big fan.
+He's diligent.
+She's social.
+She's lovely.
+She's sari.
+He's kind.
+He's alive.
+She's alive.
+He has a lot of fun.
+She likes character.
+She was sophisticated.
+She's honest.
+He's got a great job.
+He's high.
+She's pure.
+He's smart.
+He's cool.
+He can trust you.
+She's cautious.
+She's got a good time.
+He's smart.
+He's a friend.
+She's beautiful.
+He's freaking out.
+He keeps his promise.
+She's nice.
+He's an elite.
+He has room.
+She's sharp.
+She's polite.
+He's mild.
+He's mild.
+He's brave.
+He's got a lot of energy.
+She's dignified.
+He's ethical.
+He's flexible.
+He's a bitch.
+He's rational.
+She's popular.
+He's merciful.
+He's in love.
+She's funny.
+She has talent.
+She's witty.
+He's active.
+He's justice.
+I admire her.
+She's wise.
+He's true.
+He's an enterprising.
+He's steady.
+She's good.
+She's creative.
+He's in charge.
+He's the best.
+He's loyal.
+She's friendly.
+He's calm.
+She's cheerful.
+She's excellent.
+He has a bad attitude.
+She is well-off.
+She's trendy.
+He's strong.
+He's correct.
+He's hungry.
+He's calm.
+He's warm.
+She's classy.
+She has a look.
+He's got a great look.
+He has a good learning ability.
+He's reasonable.
+He's modest in his behavior.
+She's clean.
+She's smart.
+She's bright.
+She's alive.
+He's active.
+She's brilliant.
+He's a fool.
+He is not disturbed.
+He has power.

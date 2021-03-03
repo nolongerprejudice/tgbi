@@ -1,0 +1,2940 @@
+He's a senior executive officer
+He's a member of the local council
+He's a member of parliament
+He's a senior executive at the firm.
+He's a management support manager.
+He's a financial manager
+He's an advertising manager.
+He's a personnel manager
+He's a government administrator.
+He's an insurance manager.
+He's a rental manager.
+She's a preschool director
+He's the president of the university
+He's a college dean
+He's the principal
+He's a vice principal
+He's a research manager.
+He's a police officer
+He's a guard.
+He's a firefighter
+He's a filmmaker
+He's the production manager.
+He's the production manager.
+He's a newspaper manager.
+He's a museum director
+He's the director of the museum
+He's the director of the library
+He's a construction manager.
+He's a mining manager.
+He's a product manager.
+He's an electric gas manager.
+He's a water manager.
+He's a sales manager.
+He's a sales manager.
+He's the transportation manager.
+He's a restaurant manager
+He's a hotel manager.
+He's a cleaning manager.
+He's a security guard.
+He's a diplomat
+He's a laborer
+He's a human resource expert.
+He's a start-up consultant.
+He's a quality certification expert.
+He's a management consultant.
+He's a government policy planner.
+He's an accountant.
+He's a tax accountant
+He's a customs officer
+He's an appraiser.
+He's a cultural property appraiser.
+He's a food and beverage appraiser.
+He's a bail appraiser.
+He's an advertising planner.
+He's a product planner.
+He's a sports marketer.
+He's a marketing expert
+He's a marketing research expert.
+He's a social research expert
+He's a program organizer
+He's a performance planner
+She's a party planner.
+He's a conference planner
+He's a sales clerk.
+He's a management planner.
+He's a marketing clerk.
+He's a labor clerk.
+He's a secretary.
+He's a hospital administrator.
+He's an administrative clerk.
+He's a tax administration clerk.
+He's a customs officer.
+He's a military administrator.
+He's a court officer
+He's a legislative officer
+He's a immigration examiner.
+He's an administrative officer
+He's a material clerk.
+He's a quality control clerk.
+He's a production manager.
+He's a trade clerk.
+He's a shipping clerk.
+He's a mailman.
+He's a forwarder.
+He's a water-transport clerk.
+He's a road-transport clerk.
+He's a railroad clerk.
+He's an air-transport clerk.
+He's a logistics expert.
+He's an accountant.
+He's a accounting clerk.
+He's a receptionist.
+He's a museum guide.
+He's a facility guide.
+He's a number agent.
+He's a customer counselor.
+He's a statistician.
+He's a regular secretary.
+He's a managerial secretary.
+He's an assistant to the office
+He's a research data guy.
+He's a stenographer
+He's a headhunter.
+He's a travel clerk
+He's a check-in clerk.
+He's a ticket agent.
+He's an analyst.
+He's a credit analyst.
+He's a fund manager.
+He's a real estate fund manager.
+He's an insurance actuary.
+He's a financial product development agency.
+He's a stockbroker
+He's a foreign exchange dealer.
+He's a futures broker.
+He's a loss accountant.
+He's an investment reviewer.
+He's an insurance reviewer.
+He's a risk manager.
+He's a financial clerk.
+He's an insurance agent.
+He's a cash counter clerk.
+He's a credit collector.
+He's an insurance planner.
+He's a professor of humanities.
+He's a professor of arts and physical education.
+He's a medical professor
+He's a professor of education
+He's a professor of engineering.
+He's a natural science professor
+He's a social science professor
+He's a college time instructor.
+He's a supervisor
+He's an admissions officer.
+He's an e-learning professor.
+He's a parish developer.
+He's a college education assistant.
+He's a chemistry researcher
+He's a physics researcher
+He's a big data expert.
+He's a biologist.
+He's a geologist.
+He's a climate change expert
+He's a statistician
+He's a meteorological researcher.
+He's a bioinformatics scientist.
+He's a research institute.
+He's a pharmacy researcher.
+He's a medical researcher
+He's a veterinary researcher.
+He's an agricultural researcher
+He's a fisheries researcher.
+He's a philosophy researcher
+He's a pedagogy researcher
+He's a psychologist
+He's a linguistics researcher
+He's a history researcher
+He's a political scientist
+He's a law researcher
+He's a public administration researcher
+He's a geographer.
+He's a sociologist.
+He's an economics researcher
+He's an airport quarantine officer.
+He's an agricultural, forestry and fisheries test center.
+He's a Korean teacher
+He's an art teacher
+He's a science teacher
+He's a career counselor.
+He's a physical education teacher
+He's a music teacher
+He's a foreign language teacher
+He's a social teacher
+He's a math teacher
+He's an elementary school teacher
+He's a special school teacher
+He's a kindergarten teacher
+He's a lecturer at a foreign language institute.
+He's a Korean instructor
+He's a computer instructor
+He's a design instructor
+He's a driving instructor.
+He's a cooking instructor
+He's a beauty instructor.
+He's an art instructor
+He's a visiting teacher at a study paper.
+He's a food research institute.
+He's an environmental and marine researcher.
+He's an auditor.
+He's a judge.
+He's a prosecutor.
+He's a lawyer.
+He's a lawyer.
+He's a patent attorney
+He's a patent clerk.
+He's a copyright agent.
+He's a police officer
+He's a cyber investigator.
+He's a prosecutor.
+He's a marine police officer.
+He's a firefighter
+He's a guard.
+He's a juvenile school teacher
+He's a physician.
+He's a family medicine doctor.
+He's a dermatologist.
+He's a urologist.
+He's an anesthesiologist.
+He's a radiologist.
+He's a pediatrician.
+He's a psychiatrist.
+He's an ophthalmologist
+He's an otolaryngologist.
+He's a gynecologist.
+He's a plastic surgeon.
+He's a surgeon.
+He's a oriental medicine doctor
+He's a dentist.
+He's a vet.
+He's a pharmacist
+He's a Chinese medicine doctor
+He's a nurse
+She's a home nurse.
+He's a hospice nurse.
+He's an infection control nurse.
+He's an operating room nurse.
+He's a health teacher
+He's a dental hygienist.
+He's a physical therapist.
+He's an occupational therapist.
+He's a clinical psychologist.
+He's an art therapist.
+He's a laughter therapist.
+He's an aromatherapist.
+He's a play therapist.
+He's a speech therapist.
+He's a clinical pathologist.
+He's a radiologist.
+He's a dentist.
+He's a optician
+He's a masseuse
+He's a hygienist
+He's a dietitian
+He's a medical recorder.
+He's an emergency medical man.
+He's a lifeguard.
+He's a nursing assistant.
+He's a carer
+He's a medical engineer.
+He's a social worker.
+He's a mental health social worker.
+He's a counselor.
+He's a youth instructor
+He's a career counselor.
+He's a former support specialist
+He's a job support officer
+He's a career coach.
+He's a social worker.
+He's a nursery teacher
+He's a welfare center life instructor.
+He's a minister.
+He's a monk.
+He's a preacher
+He's a fortune teller
+He's a shaman
+He's a stenographer
+He's a publisher.
+He's a poet
+He's a game scenario writer.
+He's a critic
+He's a TV writer
+He's a lyricist
+He's a copywriter.
+He's a movie scenario writer.
+He's a novelist
+He's a translator.
+He's an interpreter
+He's a publisher.
+He's a curator
+He's an art consultant.
+He's a cultural asset preserver.
+He's a librarian
+He's a record manager.
+He's a magazine reporter
+He's a commentator
+He's an editor.
+He's a TV reporter
+He's a newspaper reporter
+He's a sculptor
+He's a painter
+He's a calligrapher
+He's a photographer.
+He's a photographer
+He's a cartoonist
+He's animator.
+He's a traditional artist
+He's a Korean musician
+He's the conductor.
+He's a musician
+He's a composer
+He's a vocalist
+He's a singer
+He's a dancer
+He's a back dancer.
+He's a choreographer
+He's a furniture designer
+He's a lighting designer
+He's a cell phone designer
+He's a toy designer.
+He's a car designer
+She's a jewelery designer.
+She's a textile designer.
+He's a designer in underwear
+She's a fashion designer
+He's a shoe designer
+He's a bag designer
+She's a designer in the interior.
+He's a stage designer
+He's an interior designer
+She's a visual mechanic.
+He's a visual designer
+He's an advertising designer
+He's a book designer
+She's a fiopi designer.
+He's a colorist
+He's a character designer
+He's a package designer
+He's an illustrator.
+He's a web designer.
+He's a video graphic designer.
+He's a game graphic designer.
+He's a Cad One.
+He's a film director
+He's a theater director
+He's a record label.
+He's the director of advertising.
+He's a theater director.
+He's a television director.
+He's a voice actor
+He's a stuntman.
+He's a comedian
+He's a movie star
+He's a theater actor
+He's a model
+He's a race announcer
+He's a disc jockey.
+He's a video jockey.
+He's a weather caster.
+He's a reporter.
+He's a show host.
+She's a shopping host
+He's an announcer.
+He's a photographer.
+He's a photographer.
+He's an acoustician.
+He's a video clipper.
+He's a lighting guy.
+He's a stage costume manager.
+He's a props manager.
+He's an entertainer manager.
+He's an aquarist.
+He's a magician
+She's a fashion coordinator.
+He's a webbiz.
+He's a craftsman
+He's a florist.
+He's a ship operator.
+He's an air service manager.
+He's an aircraft pilot.
+He's a helicopter pilot.
+He's a sailor.
+He's a ship engineer
+He's a pilot.
+He's an air traffic controller.
+He's a railroad traffic controller.
+He's a ship traffic controller.
+He's a railroad engineer
+He's Marshaller.
+He's a cab driver
+He's a bus driver
+He's a small truck driver.
+He's a special-car driver.
+He's a big truck driver.
+He's a car driver.
+He's a crane driver.
+He's a forklift driver.
+He's a courier.
+He's a mailman.
+He's a ship's deckman.
+He's a ship engineer
+He's an electrical supervisor.
+He's a product planning expert
+He's Bayer.
+He's a car dealer.
+He's a commodity broker
+He's an auctioneer
+He's a ship broker.
+He's a real estate consultant.
+He's a real estate agent.
+He's a store salesman
+He's a tax-exempt salesman.
+He's a telecom salesman.
+He's an internet salesman
+He's a telemarketer.
+He's a commodity rental.
+He's a store cashier.
+He's a ticket agent
+He's a lottery salesman.
+He's a street vendor.
+He's a mobile salesman.
+He's a visiting salesman
+He's a gas man
+He's a public relations assistant.
+He's a promoter
+He's a store clerk.
+He's a child care assistant.
+He's a bodyguard.
+He's a petitioner.
+He's an unattended guard.
+He's a security guard
+He's a cleaner
+He's a hotel room cleaner.
+She's an environmentalist.
+He's a recyclables collector.
+She's a shoemaker.
+He's a housekeeper.
+He's a laundry man.
+He's a meterman.
+He's a gas inspector.
+He's a parking man.
+He's a checker.
+He's a user.
+He's a hairdresser.
+He's a skin care worker
+He's a bathkeeper.
+He's a nail artist.
+He's a special makeup man.
+He's a makeup artist
+He's a dresser.
+He's a pet hairdresser.
+She's a fashion advisor.
+He's an image consultant.
+He's a personal shopper.
+He's a marriage counselor.
+She's a wedding planner.
+He's a wedding worker.
+He's a funeral instructor.
+He's a travel product developer.
+He's a travel clerk
+He's an overseas travel leader.
+He's a natural environment guide.
+He's a tour interpreter.
+He's a travel guide.
+He's a flight attendant
+He's a ship attendant
+He's a train attendant
+She's a hotel concierge.
+He's a lodging service.
+He's a play facility worker.
+He's the manager of the game
+He's a coach.
+He's a professional baseball player
+He's a professional racer.
+He's a professional horse racer
+He's a car racer.
+He's a professional volleyball player.
+He's a professional golfer
+He's a professional basketball player
+He's a professional soccer player
+He's a judge of the game
+He's a game recorder
+He's a sports trainer.
+He's a recreation instructor.
+He's a sports instructor
+He's a baduk driver.
+He's a sports agent
+He's a professional gamer
+He's a casino dealer.
+She's a cheerleader.
+He's a golf course caddy.
+He's a Korean cook
+He's a Chinese cook.
+He's a cook.
+He's a Japanese cook
+He's a bartender
+He's a group food cook.
+He's a barista.
+He's a fast food center.
+He's a kitchen assistant.
+He's a food delivery man.
+He's a food stylist.
+He's a sommelier
+He's a building safety engineer.
+He's an eco-friendly architect consultant.
+He's a construction quotation.
+He's a construction engineer.
+He's a construction supervisor.
+He's an architectural engineer.
+He's a construction engineer.
+He's a civil engineer.
+He's a civil engineering technician.
+He's a civil engineer.
+He's a civil engineering engineer.
+He's a civil safety engineer.
+He's a traffic impact assessment.
+He's a traffic safety researcher
+He's a traffic planner.
+He's a city planner.
+He's a surveyor
+He's a photographer.
+He's a mapmaker.
+He's a geographer.
+He's a construction material tester.
+He's a steelworker
+He's a rebar.
+He's a concrete ball
+He's a stonemason
+He's a construction carpenter
+He's a traditional building builder.
+He's a beauty salon
+He's a waterproofing man
+She's a flooring park.
+He's a glass attacher.
+He's a plumber
+He's a building painter.
+He's a construction plumber.
+He's a mining machine driver.
+He's a light source
+He's a quarry.
+He's a stone cutter.
+He's a railroad repairman.
+He's a diver.
+He's a gunpowder manager.
+He's a mechanical engineer.
+He's a shipbuilding engineer
+He's a plant mechanic.
+He's a robotic engineer.
+He's a railroad engineer.
+He's a cooler and heater engineer.
+He's an engine engineer.
+He's a construction engineer.
+He's a mechatronics engineer.
+He's an aeronautical engineer.
+He's an auto engineer.
+He's a mechanical testing lab.
+He's an industrial mechanic.
+He's an elevator mechanic.
+He's a mechanic.
+He's a boiler maintenance guy.
+He's a construction maintenance guy.
+He's an agricultural mechanic.
+He's a helicopter mechanic.
+He's an aircraft mechanic.
+He's a ship repairman.
+He's a railroad train mechanic.
+He's a motorcycle mechanic.
+He's a car mechanic.
+He's a molder.
+He's a metalworker.
+He's a manipulator.
+He's a car assemblyman.
+He's a car parts assemblyman.
+He's a transport assemblyman.
+He's a ship assemblyman.
+He's a railroad car assemblyman.
+He's a tool maker.
+He's a metallic engineer.
+He's a material engineer.
+He's a nanoengineering man.
+He's a metallic engineer.
+He's a welder.
+He's a plating man
+He's a glass maker.
+He's a production man for clay.
+He's a manufacturer of mineral products.
+He's a rock house.
+He's an appraiser.
+He's a steward
+He's a chemical engineering tester.
+He's a fuel cell researcher.
+He's a textile engineer.
+He's a dye tester.
+He's a textile-related grade inspector.
+He's a hanbok manufacturer
+He's a suit maker.
+She's a leather apparel manufacturer.
+He's a fur repairman.
+He's a clothing inspector.
+He's a patternist.
+He's a tailor.
+He's a seamstress
+He's a shoemaker
+He's a transmission and distribution engineer.
+He's an electrical safety engineer.
+He's a power plant engineer.
+He's an electrical control engineer.
+He's an electrical product developer.
+He's an electronics developer.
+He's a semiconductor engineer.
+He's an electronic medical device developer.
+He's a computer repairman.
+He's a repairman for office equipment.
+He's a home appliance repairman.
+He's a power plant operator.
+He's an electronics operator.
+He's a manufacturer of electrical products.
+He's a gas energy engineer.
+He's a solar researcher.
+He's a wind power researcher.
+He's a solar power researcher.
+He's a video clipper.
+He's a digital imaging expert.
+He's a computer hardware engineer.
+He's a communications engineer.
+He's a communications technology developer.
+He's a satellite developer.
+He's a communications engineer.
+He's a computer system supervisor.
+He's a computer system design analyst.
+He's a developer of management information systems.
+He's an information and communication consultant.
+He's a network programmer.
+He's a network engineer
+He's a computer security expert.
+He's a system software developer.
+He's an application software developer.
+He's an augmented reality expert.
+He's a game programmer
+He's a voice processing expert.
+He's an application software developer.
+He's a web developer.
+He's a webmaster.
+He's a web programmer.
+He's a web engineer.
+He's a web planner.
+He's an animation planner.
+He's a game planner
+He's a database developer.
+He's an information system operator.
+He's a network manager
+He's a technical support expert.
+He's a communications engineer.
+He's a televised engineer.
+He's a video equipment repairman.
+He's a mechanic repairman.
+He's an Internet cable installer.
+He's a food engineering engineer.
+He's a food tester.
+He's a baker.
+He's a confectionary.
+He's a rice cake maker
+He's a working man.
+He's a butcher.
+He's a slaughterhouse.
+He's a cook.
+He's a tobacco classmate
+He's a food grader
+He's a dairy processing machine operator.
+He's a milling machine operator.
+He's a road-machine operator.
+He's a grain processing machine operator.
+He's a Drink Manufacturer.
+He's a tobacco manipulator.
+He's a life sciences researcher.
+He's a marine fisheries engineer.
+He's a plumbing servitor.
+He's a pest control worker
+He's an expert on pest control.
+He's an environmental engineer.
+He's a GHC inspector.
+He's an environmental consultant.
+He's a soil environmental engineer.
+She's an environmental impact assessment.
+He's a noise-vibration engineer.
+He's a waste disposal engineer.
+He's an air-environment engineer.
+He's a water quality engineer.
+He's an environmental engineering tester.
+She's an eco-friendly product certification examiner.
+He's an environmental engineering tester.
+He's an environmental inspector.
+He's a gas energy engineer.
+He's a bioenergy researcher.
+He's a nuclear engineering engineer.
+He's a fire engineering engineer.
+He's a fire engineering engineer.
+He's a nondestructive inspector.
+He's an industrial safety officer.
+He's a risk officer.
+He's an energy specialist.
+He's an energy tester.
+He's a water and sewage manipulator.
+He's a recycling agent.
+He's an incinerator operator.
+He's a printer operator.
+He's a photographer.
+He's a wood park.
+He's a paper producer.
+He's a furniture manufacturer.
+He's a furniture repairman.
+He's a furniture assemblyman.
+He's a furniture inspector
+He's a craftsman
+He's a clay craftsman.
+He's a Hanji craftsman.
+She's a three-park jewel.
+He's a manufacturer of musical instruments
+He's a tuner.
+He's a mechanic.
+He's a sign maker
+He's a sign-in installer.
+He's a packing man
+He's a grain grower.
+He's a special crop grower.
+He's a vegetable grower.
+He's a fruit crop grower.
+He's a gardener.
+He's a flower crop grower.
+He's a landscape gardener
+He's a livestock breeder.
+He's an animal trainer.
+He's a logging house
+He's a farm worker
+He's a fisherman
+He's an army officer.
+He's an air force officer.
+He's a naval officer.
+He's an army sergeant.
+He's a Air Force NCO.
+He's a navy sergeant.
+He's a climate change expert
+He's a forestry researcher
+He's an architect
+He's an architectural engineer.
+He's a landscape engineer.
+He's a senior executive officer
+He's a member of the local council
+He's a member of parliament
+He's a senior executive at the firm
+He's a management support manager
+He's a financial manager
+He's an advertising manager
+He's a personnel manager
+He's a government administrator
+He's an insurance manager
+He's a rental manager
+She's a preschool director
+He's the president of the university
+He's the dean of college
+He's the principal
+He's a vice principal
+He's a research manager
+He's a police officer
+He's a guard.
+He's a firefighter
+He's a filmmaker
+He's the production manager.
+He's the production manager.
+He's the newspaper manager.
+He's the museum director
+He's the director of the museum
+He's the director of the library
+He's a construction manager
+He's a mining manager
+He's a product manager
+He's an electric gas manager.
+He's a capitalist
+He's a sales manager
+He's a sales manager
+He's a transportation manager
+He's a restaurant manager
+He's a hotel manager
+He's a cleaning manager
+He's a security guard
+He's a diplomat
+He's a laborer
+He's a human resource expert.
+He's a start-up consultant.
+He's a quality certification expert.
+He's a management consultant.
+He's a government policy planner.
+He's an accountant
+He's a tax accountant
+He's a customs officer
+He's an appraiser
+He's a cultural property appraiser.
+He's a food and beverage appraiser.
+He's a bail appraiser.
+He's an advertising planner
+He's a product planner
+He's a sports marketer.
+He's a marketing expert
+He's a marketing research expert
+He's a social research expert
+He's a program organizer
+He's a performance planner
+She's a party planner.
+He's a conference planner
+He's a sales clerk.
+He's a management planner.
+He's a marketing clerk
+He's a labor clerk.
+He's a secretary.
+He's a hospital administrator.
+He's an administrative clerk.
+He's a tax administration clerk.
+He's a customs officer.
+He's a military administrator.
+He's a court official
+He's a legislative officer
+He's a immigration examiner.
+He's an administrative officer
+He's a material clerk.
+He's a quality control clerk.
+He's a production management clerk.
+He's a trade clerk
+He's a shipping clerk
+He's a mailman
+He's a forwarder
+He's a water-transport clerk.
+He's a road-transport clerk.
+He's a railroad clerk.
+He's an air-transport clerk.
+He's a logistics expert
+He's an accountant
+He's a accounting clerk
+He's a receptionist.
+He's a museum guide.
+He's a facility guide.
+He's a numbering agent.
+He's a customer counselor
+He's a statistician
+He's a general secretary
+He's the administrative secretary
+He's an assistant to the office
+He's a research tech.
+He's a stenographer
+He's a headhunter.
+He's a travel clerk
+He's a check-in clerk.
+He's a ticketing clerk.
+He's an analyst
+He's a credit analyst
+He's a fund manager.
+He's a real estate fund manager.
+He's an actuarial.
+He's a financial product development agency.
+He's a stockbroker
+He's a foreign exchange dealer
+He's a futures broker.
+He's a loss accountant
+He's an investment reviewer.
+He's an insurance reviewer.
+He's a risk manager.
+He's a financial clerk.
+He's an insurance agent
+He's a cash register clerk.
+He's a credit collector.
+He's an insurance planner
+He's a professor of humanities.
+He's a professor of arts and physical education.
+He's a medical professor
+He's a professor of education
+He's a professor of engineering
+He's a natural science professor
+He's a social science professor
+He's a college time instructor
+He's a supervisor
+He's an admissions officer.
+He's an e-learning professor.
+He's a parish developer
+He's a college education assistant.
+He's a chemistry researcher
+He's a physics researcher
+He's a big data expert
+He's a biologist
+He's a geologist.
+He's a climate change expert
+He's a statistician
+He's a meteorological researcher
+He's a bioinformatics scientist.
+He's a research institute.
+He's a pharmacy researcher
+He's a medical researcher
+He's a veterinary researcher.
+He's an agri-agricultural researcher
+He's a fisheries researcher.
+He's a philosophy researcher
+He's a pedagogy researcher
+He's a psychologist
+He's a linguistics researcher
+He's a history researcher
+He's a political scientist
+He's a law researcher
+He's a public administration researcher
+He's a geographer.
+He's a sociologist
+He's an economics researcher
+He's an airport quarantine officer.
+He's an agriculture, forestry and fisheries test center.
+He's a Korean teacher
+He's an art teacher
+He's a science teacher
+He's a career counselor.
+He's a physical education teacher
+He's a music teacher
+He's a foreign language teacher
+He's a social teacher
+He's a math teacher
+He's an elementary school teacher
+He's a special school teacher
+He's a kindergarten teacher
+He's a lecturer at a foreign language institute.
+He's a Korean instructor
+He's a computer instructor
+He's a design instructor
+He's a driving instructor.
+He's a cooking instructor
+He's a beauty instructor
+He's an art instructor
+He's a visiting teacher at a study paper.
+He's a food research institute
+He's an environmental and marine researcher
+He's a thank-you clerk
+He's a judge
+He's a prosecutor
+He's a lawyer
+He's a lawyer
+He's a patent attorney
+He's a patent clerk
+He's a copyright agent.
+He's a police officer
+He's a cyber investigator.
+He's a prosecutor.
+He's a marine police officer
+He's a firefighter
+He's a guard.
+He's a juvenile school teacher.
+He's a physician.
+He's a family medicine doctor.
+He's a dermatologist
+He's a urologist.
+He's an anesthesiologist.
+He's a radiologist.
+He's a pediatrician
+He's a psychiatrist
+He's an ophthalmologist
+He's an otolaryngologist.
+He's a gynecologist.
+He's a plastic surgeon.
+He's a surgeon
+He's a oriental medicine doctor
+He's a dentist
+He's a vet
+He's a pharmacist
+He's a Chinese medicine company
+He's a nurse
+She's a home nurse.
+He's a hospice nurse.
+He's an infection control nurse.
+He's an operating nurse.
+He's a health teacher
+He's a dental hygienist
+He's a physical therapist
+He's an occupational therapist
+He's a clinical psychologist
+He's an art therapist
+He's a laughter therapist
+He's an aromatherapist.
+He's a play therapist
+He's a speech therapist
+He's a clinical pathologist.
+He's a radiologist
+He's a dentist.
+He's a optician
+He's a masseuse
+He's a hygienist
+He's a dietitian
+He's a medical recorder
+He's a paramedic
+He's a lifeguard.
+He's a nursing assistant.
+He's a caregiver
+He's a medical engineer.
+He's a social worker
+He's a mental health and social worker.
+He's a counselor
+He's a youth instructor
+He's a career counselor
+He's a former support specialist
+He's a job support officer
+He's a career coach.
+He's a social activist.
+He's a nursery teacher
+He's a welfare center life instructor.
+He's a pastor
+He's a monk
+He's a preacher
+He's a fortune teller
+He's a shaman
+He's a stenographer
+He's a publisher
+He's a poet
+He's a game scenario writer.
+He's a critic
+He's a TV writer
+He's a lyricist
+He's a copywriter.
+He's a movie scenario writer.
+He's a novelist
+He's a translator
+He's an interpreter
+He's a publisher
+He's a curator
+He's an art consultant.
+He's a cultural asset preserver
+He's a librarian
+He's a record manager.
+He's a magazine reporter
+He's a commentator
+He's an editor
+He's a TV reporter
+He's a newspaper reporter
+He's a sculptor
+He's a painter
+He's a calligrapher
+He's a photographer
+He's a photographer
+He's a cartoonist
+He's animator.
+He's a traditional artist
+He's a Korean musician
+He's the conductor
+He's a musician
+He's a composer
+He's a vocalist
+He's a singer
+He's a dancer
+He's a back dancer
+He's a choreographer
+He's a furniture designer
+He's a lighting designer
+He's a cell phone designer
+He's a toy designer
+He's a car designer
+She's a jewelery designer.
+She's a textile designer.
+He's a designer in underwear
+She's a fashion designer
+He's a shoe designer
+He's a bag designer
+He's a designer in the interior.
+He's a stage designer
+He's an interior designer
+She's a visual mechanic.
+He's a visual designer
+He's an advertising designer
+He's a book designer
+She's a Fiofy designer.
+He's a colorist
+He's a character designer
+He's a packaging designer
+He's an illustrator.
+He's a web designer.
+He's a video graphic designer.
+He's a game graphic designer.
+He's a Cad One.
+He's a film director
+He's a theater director
+He's a record planner
+He's an advertising director.
+He's a theater director
+He's a television director
+He's a voice actor
+He's a stuntman.
+He's a comedian
+He's a movie star
+He's a theater actor
+He's a model
+He's a race announcer
+He's a disc jockey
+He's a video jockey
+He's a weather caster
+He's a reporter
+He's the host of the entertainment program
+She's a shopping host
+He's an announcer
+He's a photographer
+He's a photographer
+He's an acoustician
+He's a video story.
+He's a lighting engineer
+She's a stage costume manager.
+He's a props clerk
+He's an entertainer manager.
+He's an aqua list.
+He's a magician
+She's a fashion coordinator.
+He's a webbiz.
+He's a craftsman
+He's a florist
+He's a ship operator.
+He's an air service manager.
+He's an aircraft pilot
+He's a helicopter pilot
+He's a sailor
+He's a ship engineer
+He's a pilot
+He's an air traffic controller.
+He's a railroad traffic controller.
+He's a ship traffic controller.
+He's a railroad engineer
+He's Marshaller.
+He's a taxi driver
+He's a bus driver
+He's a small truck driver.
+He's a special-car driver.
+He's a big truck driver.
+He's a car driver.
+He's a crane driver.
+He's a forklift driver.
+He's a courier
+He's a mailman.
+He's a ship's deckman
+He's a ship engineer
+He's an electrical supervisor.
+He's a product planning expert
+He's a buyer
+He's a car dealer
+He's a commodity broker
+He's an auctioneer
+He's a ship broker.
+He's a real estate consultant
+He's a real estate agent
+He's a shop salesman
+He's a tax-exempt salesman.
+He's a telecom salesman.
+He's an internet salesman
+He's a telemarketer.
+He's a rental agent
+He's a store cashier
+He's a ticket agent
+He's a lottery salesman
+He's a street vendor.
+He's a mobile salesman
+He's a visiting salesman
+He's a main source of oil
+He's a public relations assistant.
+He's a promoter
+He's a store clerk
+He's a child care assistant.
+He's a bodyguard
+He's a petitioner.
+He's an unattended guard.
+He's a security guard
+He's a cleaner
+He's a hotel room cleaner.
+She's an environmental cleaner.
+He's a recyclables collector.
+She's a shoe shop.
+He's a housekeeper.
+He's a laundry man
+He's an instrument meterman.
+He's a gas inspector
+He's a parking attendant
+He's a checker
+He's a user
+He's a hairdresser
+He's a skin care worker
+He's a bathkeeper
+He's a nail artist
+He's a special makeup company.
+He's a makeup artist
+He's a dresser
+He's a pet hairdresser.
+She's a fashion advisor.
+He's an image consultant
+He's a personal shopper.
+He's a marriage counselor
+She's a wedding planner.
+He's a wedding worker
+He's a funeral instructor
+He's a travel product developer
+He's a travel clerk
+He's an overseas travel leader.
+He's a natural environment guide.
+He's a tour interpreter.
+He's a travel guide
+He's a flight attendant
+He's a ship attendant
+He's a train attendant
+She's a hotel concierge.
+He's a lodging service.
+He's a play facility worker
+He's a game manager
+He's a coach of the game
+He's a professional baseball player
+He's a professional racer.
+He's a professional horse racer
+He's a car racer
+He's a professional volleyball player.
+He's a professional golfer
+He's a professional basketball player
+He's a professional soccer player
+He's a judge of the game
+He's a game recorder
+He's a sports trainer.
+He's a recreation instructor.
+He's a sports instructor
+He's a baduk driver
+He's a sports agent
+He's a professional gamer.
+He's a casino dealer.
+He's a cheerleader.
+He's a golf course caddy.
+He's a Korean cook.
+He's a Chinese cook.
+He's a cook.
+He's a Japanese cook.
+He's a bartender
+He's a group food cook
+He's a barista
+He's a fast food restaurant
+He's a kitchen assistant
+He's a food delivery guy.
+He's a food stylist
+He's a sommelier
+He's a building safety engineer.
+He's an eco-friendly architect consultant.
+He's a construction quotationist
+He's a construction engineer.
+He's a construction supervisor.
+He's an architectural engineer.
+He's a construction engineer.
+He's a civil engineer.
+He's a civil engineering technician.
+He's a civil engineer.
+He's a civil engineering engineer.
+He's a civil safety environmental engineer.
+He's a traffic impact assessment.
+He's a traffic safety researcher
+He's a traffic planner
+He's a city planner
+He's a surveyor
+He's a photographer.
+He's a mapmaker.
+He's a geographer.
+He's a construction material tester.
+He's a steelworker
+He's a rebar ball
+He's a concrete ball
+He's a stonemason
+He's a construction carpenter
+He's a traditional building builder.
+He's a beauty salon
+He's a waterproofing man
+She's a flooring park.
+He's a glass attacher
+He's a plumber
+He's a building painter.
+He's a construction plumber.
+He's a mining machine operator.
+He's a light source
+He's a quarry
+He's a stone cutter.
+He's a railroad repairman.
+He's a diver
+He's a gunpowder manager.
+He's a mechanical engineer
+He's a shipbuilding engineer
+He's a plant mechanic.
+He's a robotic engineer
+He's a railroad engineer.
+He's a cooler and heater engineer.
+He's an engine engineer.
+He's a construction engineer.
+He's a mechatronics engineer.
+He's an aeronautical engineer
+He's an auto engineer
+He's a mechanical engineering tester.
+He's an industrial mechanic.
+He's an elevator mechanic.
+He's a mechanic.
+He's a boiler maintenance worker.
+He's a construction worker
+He's an agricultural mechanic.
+He's a helicopter mechanic
+He's an aircraft mechanic
+He's a ship repairman
+He's a railroad train mechanic.
+He's a motorcycle mechanic
+He's a car mechanic
+He's a molder
+He's a metalworker.
+He's a manipulator.
+He's a car assemblyman
+He's a car parts assemblyman.
+He's a transport assemblyman.
+He's a ship assemblyman
+He's a railroad car assemblyman.
+He's a tool manufacturer.
+He's a metallic engineer
+He's a material engineer
+He's a nanoengineering guy
+He's a metallic engineer
+He's a welder
+He's a plating house
+He's a glass maker
+He's a production source for clay.
+He's a manufacturer of mineral products.
+He's a rock park.
+He's an appraiser
+He's a steward
+He's a chemical engineering tester.
+He's a fuel cell researcher.
+He's a textile engineer.
+He's a dye tester.
+He's a textile-related grade inspector.
+He's a hanbok manufacturer
+He's a suit maker
+She's a leather apparel manufacturer.
+He's a fur repairman.
+She's a clothing inspector.
+He's a Patternist
+He's a tailor
+He's a seamstress
+He's a flower gardener
+He's a transmission and distribution engineer.
+He's an electrical safety engineer.
+He's a power plant engineer.
+He's an electrical control engineer.
+He's an electrical product developer.
+He's an electronics developer.
+He's a semiconductor engineer
+He's an electronic medical device developer.
+He's a computer repairman
+He's a repairman for office equipment.
+He's a home appliance repairman.
+He's a power plant operator.
+He's an electronics operator.
+He's an electrical manufacturer.
+He's a gas energy engineer.
+He's a solar researcher.
+He's a wind researcher.
+He's a solar power researcher.
+He's a video story.
+He's a digital imaging expert.
+He's a computer hardware engineer.
+He's a communications engineer.
+He's a communications technology developer.
+He's a satellite development agency.
+He's a communications engineer.
+He's a computer system supervisor.
+He's a computer system design analyst.
+He's a developer of the management information system.
+He's an information and communication consultant
+He's a network programmer.
+He's a network engineer
+He's a computer security expert
+He's a system software developer.
+He's an application software developer
+He's an augmented reality expert.
+He's a game programmer.
+He's a voice processing expert
+He's an application software developer.
+He's a web developer
+He's a webmaster
+He's a web programmer.
+He's a web engineer.
+He's a web planner
+He's an animation planner
+He's a game planner
+He's a database developer
+He's an information system operator.
+He's a network manager
+He's a technical support expert
+He's a communications engineer.
+He's a televised engineer.
+He's a video equipment repairman.
+He's a telecom repairman.
+He's an Internet cable installer.
+He's a food engineering engineer
+He's a food testing institute
+He's a baker
+He's a confectionery worker
+He's a rice cake maker
+He's a working assistant.
+He's a butcher
+He's a slaughterhouse.
+He's a cook for a side dish.
+He's a tobacco classmate
+He's a food grader
+He's a dairy processing machine operator.
+He's a milling manipulator.
+He's a road-machine operator.
+He's a grain processing machine operator.
+He's a Drink Manufacturer.
+He's a tobacco manipulator.
+He's a life sciences researcher
+He's a marine fisheries engineer.
+He's a plumbing servitor.
+He's a pest control worker
+He's an expert on pest control.
+He's an environmental engineer
+He's a GHC inspector.
+He's an environmental consultant.
+He's a soil environmental engineer.
+She's an environmental impact assessment.
+He's a noise-vibration engineer.
+He's a waste disposal engineer.
+He's an air-environment engineer.
+He's a water quality engineer.
+He's an environmental engineering tester.
+She's an eco-friendly product certification examiner.
+He's an environmental engineering tester.
+He's an environmental inspector
+He's a gas energy engineer.
+He's a bioenergy researcher.
+He's a nuclear engineering engineer.
+He's a fire engineering engineer.
+He's a fire engineering engineer.
+He's a nondestructive inspector.
+He's an industrial safety officer
+He's a risk officer
+He's an energy specialist.
+He's an energy tester
+He's a water and sewage manipulator.
+He's a recycling agent
+He's an incinerator operator.
+He's a printer operator.
+He's a photographer.
+He's a wood park
+He's a paper producer.
+He's a furniture manufacturer
+He's a furniture repairman
+He's a furniture assemblyman
+He's a furniture inspector
+He's a craftsman
+He's a clay craftsman.
+He's a Hanji craftsman.
+She's a three-park jewel
+He's a manufacturer of musical instruments
+He's a tuner
+He's a mechanic
+He's a sign maker
+He's a sign-in installer
+He's a packing house
+He's a grain grower.
+He's a special crop grower.
+He's a vegetable grower.
+He's a fruit crop grower.
+He's a gardener.
+He's a flower crop grower.
+She's a landscape gardener
+He's a livestock breeder.
+He's an animal trainer
+He's a logging house
+He's a farm
+He's a fisherman
+He's an army officer.
+He's an air force officer.
+He's a naval officer.
+He's an army sergeant.
+He's a Air Force NCO.
+He's a navy sergeant.
+He's a climate change expert
+He's a forestry researcher
+He's an architect
+He's an architectural engineer
+He's a landscape engineer
+He's a senior executive officer
+He's a member of the local council
+He's a member of parliament
+He's a senior executive at the firm.
+He's a management support manager
+He's a financial manager
+He's an advertising manager
+He's a personnel manager
+He's a government administrator
+He's an insurance manager.
+He's a rental manager
+He's a preschool director
+He's the president of the university
+He's a dean of college
+He's the principal
+He's a vice principal
+He's a research manager
+He's a police officer
+He's a guard.
+He's a firefighter
+He's a filmmaker
+He's a production manager.
+He's a production manager.
+He's a newspaper manager.
+He's a museum director
+He's the head of the museum
+He's the director of the library
+He's a construction manager
+He's a mining manager.
+He's a product production manager
+He's an electric gas manager.
+He's a water manager
+He's a sales manager
+He's a sales manager
+He's the transportation manager.
+He's the restaurant manager
+He's a hotel manager
+He's a cleaning manager
+He's a security guard.
+He's a diplomat
+He's a laborer
+He's a human resource expert.
+He's a start-up consultant.
+He's a quality certification expert.
+He's a management consultant.
+He's a government policy planner.
+He's an accountant.
+He's a tax accountant
+He's a customs officer
+He's an appraiser
+He's a cultural property appraiser.
+He's a food and beverage appraiser.
+He's a bail-out appraiser.
+He's an advertising planner
+He's a product planner
+He's a sports marketer.
+He's a marketing expert
+He's a marketing research expert
+He's a social research expert
+He's a program organizer
+He's a performance planner
+He's a party planner.
+He's a conference planner
+He's a sales clerk.
+He's a management planner.
+He's a marketing clerk
+He's a labor clerk.
+He's a secretary.
+He's a hospital administrator.
+He's an administrative clerk.
+He's a tax administration clerk.
+He's a customs officer.
+He's a military administrator.
+He's a court official
+He's a legislative officer
+He's a immigration examiner.
+He's an administrative officer
+He's a material clerk.
+He's a quality control clerk.
+He's a production management clerk.
+He's a trade clerk
+He's a shipping clerk
+He's a postal clerk
+He's a forwarder.
+He's a water-transport clerk.
+He's a road-transport clerk.
+He's a railroad clerk.
+He's an air-transport clerk.
+He's a logistics expert.
+He's an accountant.
+He's a accounting clerk
+He's a receptionist.
+He's a museum guide.
+He's a facility guide.
+He's a number agent.
+He's a customer counselor
+He's a statistician
+He's a general secretary
+He's a managerial secretary
+He's an assistant to the office
+He's a research data guy.
+He's a stenographer
+He's a headhunter.
+He's a travel clerk
+He's a check-in clerk.
+He's a ticket agent.
+He's an analyst.
+He's a credit analyst.
+He's a fund manager.
+He's a real estate fund manager.
+He's an insurance actuary.
+He's a financial product development agency.
+He's a stockbroker
+He's a foreign exchange dealer
+He's a futures broker.
+He's a loss accountant
+He's an investment reviewer.
+He's an insurance reviewer.
+He's a risk manager.
+He's a financial clerk.
+He's an insurance agent
+He's a cash register clerk.
+He's a credit collector.
+He's an insurance planner.
+He's a professor of humanities.
+He's a professor of arts and physical education.
+He's a medical professor
+He's a professor in education
+He's a professor of engineering
+He's a naturalist professor
+He's a social science professor
+He's a college time instructor
+He's a supervisor
+He's an admissions officer.
+He's an e-learning professor.
+He's a parish developer.
+He's a college education assistant.
+He's a chemistry researcher
+He's a physics researcher
+He's a big data expert
+He's a biologist.
+He's a geologist.
+He's a climate change expert
+He's a statistician
+He's a meteorological researcher
+He's a bioinformatics scientist.
+He's a research institute for forestry
+He's a pharmacy researcher.
+He's a medical researcher
+He's a veterinary researcher.
+He's an agricultural researcher
+He's a fisheries research institute.
+He's a philosophy researcher
+He's a pedagogy researcher
+He's a psychologist
+He's a linguistics researcher
+He's a history researcher
+He's a political scientist
+He's a law researcher
+He's a public administration researcher
+He's a geographer.
+He's a sociologist.
+He's an economics researcher
+He's an airport quarantine officer.
+He's a farm and forestry testing institute.
+He is a Korean teacher
+He's an art teacher
+He's a science teacher
+He's a career counselor.
+He's a physical education teacher
+He's a music teacher
+He is a foreign language teacher
+He's a social teacher
+He's a math teacher
+He's an elementary school teacher
+He's a special school teacher
+He's a kindergarten teacher
+He's a lecturer at a foreign language institute.
+He's a Korean instructor
+He's a computer instructor
+He's a design instructor
+He's a driving instructor.
+He's a cooking instructor
+He's a beauty instructor
+He's an art instructor
+He's a visiting teacher at a study paper
+He's a food research institute
+He's an environmental and marine research institute
+He's an auditor.
+He's a judge.
+He's a prosecutor.
+He's a lawyer.
+He's a lawyer
+He's a patent attorney
+He's a patent clerk
+He's a copyright agent.
+He's a police officer
+He's a cyber investigator.
+He's a prosecutor.
+He's a marine police officer
+He's a firefighter
+He's a guard.
+He's a juvenile school teacher
+He's a physician.
+He's a family medicine doctor.
+He's a dermatologist.
+He's a urologist.
+He's an anesthesiologist.
+He's a radiologist.
+He's a pediatrician.
+He's a psychiatrist.
+He's an ophthalmologist.
+He's an otolaryngologist.
+He's a gynecologist.
+He's a plastic surgeon.
+He's a surgeon.
+He's a oriental medicine doctor
+He's a dentist.
+He's a vet.
+He's a pharmacist
+He is a Chinese medicine doctor
+He's a nurse
+He's a home nurse.
+He's a hospice nurse.
+He's an infection control nurse.
+He's an operating room nurse.
+He's a health teacher
+He's a dental hygienist
+He's a physical therapist.
+He's an occupational therapist.
+He's a clinical psychologist.
+He's an art therapist.
+He's a laughter therapist.
+He's aromatherapist.
+He's a play therapist.
+He's a speech therapist
+He's a clinical pathologist.
+He's a radiologist.
+He's a dentist.
+He's a optician
+He's a masseuse
+He's a hygienist
+He's a dietician
+He's a medical recorder.
+He's an emergency rescuer.
+He's a lifeguard.
+He's a nursing assistant.
+He's a carer
+He's a medical engineer.
+He's a social worker
+He's a mental health social worker.
+He's a counselor.
+He's a youth instructor
+He's a career counselor.
+He's a former support specialist
+He's a job support officer
+He's a career coach.
+He's a social worker
+He's a nursery teacher
+He's a welfare center life instructor.
+He's a minister.
+He is a monk
+He's a preacher
+He's a fortune teller
+He's a shaman
+He's a stenographer
+He's a publisher.
+He is a poet
+He's a game scenario writer.
+He's a critic
+He's a broadcasting writer
+He's a lyricist
+He's a copywriter.
+He's a movie scenario writer.
+He's a novelist
+He's a translator.
+He's an interpreter
+He's a publisher.
+He's a curator
+He's an art consultant.
+He's a cultural asset preserver
+He's a librarian
+He's a record manager.
+He's a magazine reporter
+He's a commentator
+He's an editor
+He's a broadcasting reporter
+He's a newspaper reporter
+He's a sculptor
+He's a painter
+He's a calligrapher
+He's a photographer.
+He's a photographer
+He's a cartoonist
+He's animator.
+He's a traditional artist
+He's a Korean musician
+He's the conductor.
+He's a musician
+He's a composer
+He's a vocalist
+He's a singer
+He's a dancer
+He's a back dancer
+He's a choreographer
+He's a furniture designer
+He's a lighting designer
+He's a cell phone designer
+He's a toy designer
+He's a car designer
+He's a jewelery designer.
+He's a textile designer.
+He's a designer in underwear
+He's a fashion designer
+He's a shoe designer
+He's a bag designer
+He's a designer in the interior.
+He's a stage designer
+He's an interior designer
+He's a visual mechanic.
+He's a visual designer
+He's an advertising designer
+He's a book designer
+He's a fiopi designer.
+He's a colorist
+He's a character designer
+He's a packaging designer
+He's an illustrator.
+He's a web designer.
+He's a visual graphic designer.
+He's a game graphic designer.
+He's a Cad.
+He's a film director
+He's a theater director
+He's a record planner
+He's the director of advertising.
+He's a theater director
+He's a television director
+He's a voice actor
+He's a stuntman.
+He's a comedian
+He's a movie star
+He's a theater actor
+He's a model
+He's a race announcer
+He's a disc jockey.
+He's a video jockey.
+He's a weather caster
+He's a reporter
+He's a show host
+He's a shopping host
+He's an announcer
+He's a photographer.
+He's a photographer.
+He's an acoustician.
+He's a video engineer
+He's a lighting guy.
+He's a stage costume manager.
+He's a props manager.
+He's an entertainer manager.
+He's an aquarist.
+He's a magician
+He's a fashion coordinator.
+He's Webvisa.
+He's a craftsman
+He's a florist
+He's a ship operator.
+He's an air service manager.
+He's an aircraft pilot
+He's a helicopter pilot.
+He's a sailor
+He's a ship engineer
+He's a pilot.
+He's an air traffic controller.
+He's a railroad traffic controller.
+He's a ship traffic controller.
+He's a railroad engineer
+That's Marshaller.
+He's a taxi driver
+He's a bus driver
+He's a small truck driver.
+He's a special-car driver.
+He's a big truck driver.
+He's a private driver.
+He's a crane driver.
+He's a forklift driver.
+He's a courier.
+He's a mailman.
+He's a ship's deckman.
+He's a ship engineer
+He's an electrical supervisor.
+He's a product planning expert
+He is Bayer
+He's a car dealer.
+He's a commodity broker
+He's an auctioneer
+He's a ship broker
+He's a real estate consultant.
+He's a real estate agent
+He's a shop salesman
+He's a tax-exempt salesman.
+He's a telecom salesman.
+He's an internet salesman
+He's a telemarketer.
+He's a commodity rental.
+He's a store cashier
+He's a ticket agent
+He's a lottery salesman
+He's a street vendor.
+He's a mobile salesman
+He's a visiting salesman
+He's a gas man
+He's a public relations assistant.
+He's a promoter
+He's a store clerk.
+He's a child care assistant.
+He's a bodyguard.
+He's a petition policeman
+He's an unattended guard.
+He's a security guard
+He's a cleaning man
+He's a hotel room cleaner.
+He's an environmentalist.
+He's a recyclables collector.
+He's a shoemaker.
+He's a housekeeper.
+He's a laundry man
+He's a meterman.
+He's a gas inspector.
+He's a parking man.
+He's a checker.
+He's a user
+He's a hairdresser
+He's a skin care worker
+He's a bath manager
+He's a nail artist
+He's a special makeup man.
+He's a makeup artist
+He's a dresser
+He's a pet hairdresser.
+He's a fashion advisor.
+He's an image consultant.
+He's a personal shopper.
+He's a marriage counselor
+He's a wedding planner.
+He's a wedding worker
+He's a funeral instructor
+He's a travel product developer
+He's a travel clerk
+He's the head of an overseas trip
+He's a natural environment guide.
+He's a tour interpreter.
+He's a travel guide
+He's a flight attendant
+He's a ship attendant
+He's a train attendant
+He's a hotel concierge.
+He's a lodging service.
+He's a play facility worker.
+He's the manager of the game
+He's a coach of the game
+He's a professional baseball player
+He's a professional racer
+He's a professional horse racer
+He's a car racer
+He's a professional volleyball player.
+He's a professional golfer
+He's a professional basketball player
+He's a professional soccer player
+He's a judge of the game
+He's a game recorder
+He's a sports trainer.
+He's a recreation instructor.
+He's a sports instructor
+He's a baduk driver
+He's a sports agent
+He's a professional gamer
+He's a casino dealer.
+He's a cheerleader
+He's a golf course caddy.
+He's a Korean cook
+He's a Chinese cook
+He's a cook of aquaculture
+He's a Japanese cook
+He's a bartender
+He's a group food cook
+He's a barista.
+He's a fast food restaurant.
+He's a kitchen assistant
+He's a food delivery man
+He's a food stylist
+He's a sommelier
+He's a building safety engineer.
+He's an eco-friendly architectural consultant.
+He's a construction quotation.
+He's a construction engineer.
+He's a construction supervisor.
+He's an architectural engineer.
+He's a construction engineer.
+He's a civil engineer.
+He's a civil engineering technician.
+He's a civil engineer.
+He's a civil engineering engineer.
+He's a civil safety environmental engineer.
+He's a traffic impact assessment.
+He's a traffic safety researcher
+He's a traffic planner
+He's a city planner
+He's a surveyor
+He's a photographer.
+He's a mapmaker.
+He's a geographer.
+He's a construction material tester.
+He's a steelworker
+He's a rebar ball
+He's a concrete ball
+He's a stonemason
+He's an architectural woodworker
+He's a traditional building builder.
+He's a beauty salon
+He's a waterproofing man
+He's a flooring city park
+He's a glass attacher
+He's a plumber
+He's a building painter.
+He's a construction plumber.
+He's a mining machine operator.
+He's a light source
+He's a quarry.
+He's a stone cutter
+He's a railroad repairman.
+He's a diver
+He's a gunpowder manager.
+He's a mechanical engineer.
+He's a shipbuilding engineer
+He's a plant mechanic.
+He's a robotic engineer.
+He's a railroad engineer.
+He's a cooler and heater engineer.
+He's an engine engineer.
+He's a construction engineer.
+He's a mechatronics engineer.
+He's an aeronautical engineer.
+He's an auto engineer.
+He's a mechanical testing laboratory.
+He's an industrial mechanic.
+He's a lift mechanic.
+He's a mechanic for transport equipment.
+He's a boiler maintenance man.
+He's a construction maintenance man.
+He's an agricultural mechanic.
+He's a helicopter mechanic.
+He's an aircraft mechanic.
+He's a ship repairman
+He's a railroad train mechanic.
+He's a motorcycle mechanic
+He's a car repairman
+He's a mold man
+He's a metalworker.
+He's a manipulator for heating and cooling.
+He's a car assemblyman
+He's a car parts assemblyman.
+He's a transport assemblyman.
+He's a ship assemblyman
+He's a railroad car assemblyman.
+He's a tool manufacturer.
+He's a metallic engineer.
+He's a material engineer
+He's a nanoengineering man.
+He's a metallic engineer.
+He's a welder.
+He's a plating man
+He's a glass maker
+He's a production source for clay.
+He's a manufacturer of mineral products.
+He's a rock house.
+He's an appraiser
+He's a steward
+He's a chemical engineering tester.
+He's a fuel cell researcher.
+He's a textile engineer.
+He's a dye tester.
+He's a textile-related grade inspector.
+He's a manufacturer of hanbok
+He's a suit manufacturer.
+He's a leather clothing manufacturer.
+He's a fur repairman.
+He's a clothing inspector.
+He's a patternist.
+He's a tailor
+He's a seamstress
+He's a shoemaker
+He's a transmission and distribution engineer.
+He's an electrical safety engineer.
+He's a power plant engineer.
+He's an electrical control engineer.
+He's an electrical product developer.
+He's an electronics developer.
+He's a semiconductor engineer.
+He's an electronic medical device development engineer.
+He's a computer repairman.
+He's a repairman for office equipment.
+He's a home appliance repairman.
+He's a power plant operator.
+He's an electronic operator.
+He's a manufacturer of electrical products
+He's a gas energy engineer.
+He's a solar researcher.
+He's a wind power researcher.
+He's a solar power researcher.
+He's a video engineer
+He's a digital imaging expert.
+He's a computer hardware engineer.
+He's a communications engineer.
+He's a communications technology developer.
+He's a satellite developer.
+He's a communications engineer.
+He's a computer system supervisor.
+He's a computer system design analyst.
+He's a developer of the management information system.
+He's an information and communication consultant.
+He's a network programmer
+He's a network engineer
+He's a computer security expert.
+He's a system software developer.
+He's an application software developer
+He's an augmented reality expert.
+He's a game programmer
+He's a voice processing expert.
+He's an application software developer.
+He's a web developer.
+He's a webmaster.
+He's a web programmer
+He's a web engineer.
+He's a web planner
+He's an animation planner.
+He's a game planner
+He's a database developer.
+He's an information system operator.
+He's a network manager
+He's a technical support expert.
+He's a communications engineer.
+He's a televised engineer.
+He's a video equipment repairman.
+He's a mechanic repairman.
+He's an Internet cable installer.
+He's a food engineering engineer.
+He's a food tester.
+He's a baker
+He's a confectionary.
+He's a rice cake maker
+He's a Han Do-won.
+He's a butcher
+He's a slaughterhouse.
+He's a man of the side dish.
+He's a tobacco classmate
+He's a food grader
+He's a dairy processing machine operator.
+He's a milling machine operator.
+He's a road-machine operator.
+He's a grain processing machine operator.
+He's a Drink Manufacturer.
+He's a tobacco manipulator.
+He's a life sciences researcher
+He's a marine fisheries engineer.
+He's a plumbing servitor.
+He's a pest control agent
+He's an expert on pest control.
+He's an environmental engineer.
+He's a GHC inspector.
+He's an environmental consultant.
+He's a soil environmental engineer.
+He's an environmental impact assessment.
+He's a noise-vibration engineer.
+He's a waste disposal engineer.
+He's an atmospheric engineer.
+He's a water-environment engineer.
+He's an environmental engineering tester.
+He's an eco-friendly product certification examiner.
+He's an environmental engineering tester.
+He's an environmental inspector
+He's a gas energy engineer.
+He's a bioenergy researcher.
+He's a nuclear engineering engineer.
+He's a fire engineering engineer.
+He's a fire engineering engineer.
+He's a nondestructive inspector.
+He's an industrial safety officer.
+He's a risk officer.
+He's an energy diagnostic expert.
+He's an energy tester
+He's a water and sewage manipulator.
+He's a recycling agent
+He's an incinerator operator.
+He's a printer operator.
+He's a photographer.
+He's a wood park
+He's a paper producer.
+He's a furniture manufacturer
+He's a furniture repairman
+He's a furniture assemblyman
+He's a furniture inspector
+He's a craftsman
+He's a clay craftsman
+He's a Hanji craftsman
+He's a three-park jewel
+He's a manufacturer of musical instruments
+He's a tuner
+He's a mechanic.
+He's a sign maker
+He's a sign-in installer
+He's a packing man
+He's a grain grower.
+He's a special crop grower.
+He's a vegetable grower.
+He's a fruit crop grower.
+He's a gardener.
+He's a flower crop grower.
+He's a landscape gardener
+He's a livestock breeder.
+He's an animal trainer.
+He's a logging house
+He's a farm worker
+He's a fisherman
+He's an army officer.
+He's an air force officer.
+He's a naval officer.
+He's an army sergeant.
+He's a Air Force NCO.
+He's a navy sergeant.
+He's a climate change expert
+He's a forestry researcher
+He's an architect
+He's an architectural engineer.
+He's a landscape engineer
+He's a senior executive officer
+He's a member of the local council
+He's a member of parliament
+He's a senior executive at the firm
+He's a management support manager
+He's a financial manager
+He's an advertising manager
+He's a personnel manager
+He's a government administrator
+He's an insurance manager
+He's a rental manager
+He's a preschool director
+He's the president of the university
+He's the dean of the university
+He's the principal
+He's a vice principal
+He's a research manager
+He's a police officer
+He's a prison guard
+He's a firefighter
+He's a filmmaker
+He's the production manager.
+He's the production manager.
+He's the newspaper manager.
+He's the head of the museum
+He's the head of the museum
+He's the director of the library
+He's a construction manager
+He's a mining manager
+He's a product production manager
+He's an electric gas manager.
+He's a water manager
+He's a sales manager
+He's a sales manager
+He's the transportation manager
+He's a restaurant manager
+He's a hotel manager
+He's a cleaning manager
+He's a security guard
+He's a diplomat
+He's a laborer
+He's a human resource expert
+He's a start-up consultant.
+He's a quality certification expert.
+He's a management consultant.
+He's a government policy planner.
+He's an accountant
+He's a tax accountant
+He's a customs officer
+He's an appraiser
+He's a cultural property appraiser.
+He's a food and beverage appraiser.
+He's a bail appraiser.
+He's an advertising planner
+He's a product planner
+He's a sports marketer
+He's a marketing expert
+He's a marketing research expert
+He's a social research expert
+He's a organizer
+He's a performance planner
+He's a party planner.
+He's a conference planner
+He's a sales clerk
+He's a management planner
+He's a marketing clerk
+He's a labor clerk
+He's a secretary
+He's a hospital administrator
+He's an administrative clerk.
+He's a tax administration clerk
+He's a customs officer.
+He's a military administrator.
+He's a court official
+He's a legislative officer
+He's a immigration examiner.
+He's an administrative officer
+He's a material clerk.
+He's a quality control clerk
+He's a production management clerk
+He's a trade clerk
+He's a shipping clerk
+He's a postal clerk
+He's a forwarder
+He's a water-transport clerk.
+He's a road-transport clerk.
+He's a railroad clerk.
+He's an air-transport clerk.
+He's a logistics expert
+He's an accountant
+He's a accounting clerk
+He's a receptionist.
+He's a museum guide
+He's a facility guide
+He's a number agent.
+He's a customer counselor
+He's a statistician
+He's a general secretary
+He's the managerial secretary
+He's an assistant to the office
+He's a research worker.
+He's a stenographer
+He's Head Hunter.
+He's a travel clerk
+He's a check-in clerk.
+He's a ticketing clerk.
+He's an analyst
+He's a credit analyst
+He's a fund manager.
+He's a real estate fund manager.
+He's an actuarial
+He's a financial product development agency.
+He's a stockbroker
+He's a foreign exchange dealer
+He's a futures broker.
+He's a loss accountant
+He's an investment reviewer.
+He's an insurance reviewer.
+He's a risk manager.
+He's a financial clerk.
+He's an insurance agent
+He's a cash register clerk.
+He's a credit collector.
+He's an insurance planner
+He's a professor of humanities.
+He's a professor of arts and physical education.
+He's a medical professor
+He's a professor of education
+He's a professor of engineering
+He's a natural science professor
+He's a social science professor
+He's a college time instructor
+He's a supervisor
+He's an admissions officer
+He's an e-learning professor.
+He's a parish developer
+He's a college education assistant.
+He's a chemistry researcher
+He's a physics researcher
+He's a big data expert
+He's a biologist
+He's a geologist
+He's a climate change expert
+He's a statistician
+He's a meteorological researcher
+He's a bioinformatics scientist.
+He's a research institute for forestry
+He's a pharmacy researcher
+He's a medical researcher
+He's a veterinary researcher.
+He's an agri-agricultural researcher
+He's a fisheries research institute
+He's a philosophy researcher
+He's a pedagogy researcher
+He's a psychologist
+He's a linguistics researcher
+He's a history researcher
+He's a political scientist
+He's a law researcher
+He's a public administration researcher
+He's a geographer.
+He's a sociologist
+He's an economics researcher
+He's an airport quarantine officer.
+He's an agricultural, forestry and fisheries testing institute.
+He's a Korean teacher
+He's an art teacher
+He's a science teacher
+He's a career counselor.
+He's a physical education teacher
+He's a music teacher
+He's a foreign language teacher
+He's a social teacher
+He's a math teacher
+He's an elementary school teacher
+He's a special school teacher
+He's a kindergarten teacher
+He's a lecturer at a foreign language institute
+He is a Korean instructor
+He's a computer instructor
+He's a design instructor
+He's a driving instructor
+He's a cooking instructor
+He's a beauty instructor
+He's an art instructor
+He's a visiting teacher at a study paper
+He's a food research institute
+He's an environmental and marine research institute
+He's an auditor
+He's a judge
+He's a prosecutor
+He's a lawyer
+He's a lawyer
+He's a patent attorney
+He's a patent clerk
+He's a copyright agent.
+He's a police officer
+He's a cyber investigator.
+He's a prosecutor.
+He's a marine police officer
+He's a firefighter
+He's a prison guard
+He's a juvenile school teacher
+He's a physician.
+He's a family medicine doctor
+He's a dermatologist
+He's a urologist.
+He's an anesthesiologist.
+He's a radiologist.
+He's a pediatrician
+He's a psychiatrist
+He's an ophthalmologist
+He's an otolaryngologist.
+He's a gynecologist.
+He's a plastic surgeon.
+He's a surgeon
+He's a oriental medicine doctor
+He's a dentist
+He's a vet
+He's a pharmacist
+He is a Chinese medicine doctor
+He's a nurse
+He's a home nurse.
+He's a hospice nurse.
+He's an infection control nurse.
+He's an operating nurse.
+He's a health teacher
+He's a dental hygienist
+He's a physical therapist
+He's an occupational therapist
+He's a clinical psychologist
+He's an art therapist
+He's a laughter therapist
+He's aromatherapist.
+He's a play therapist
+He's a speech therapist
+He's a clinical pathologist
+He's a radiologist
+He's a dentist
+He's a optician
+He's a masseuse
+He's a hygienist
+He's a dietitian
+He's a medical recorder
+He's a paramedic
+He's a lifeguard.
+He's a nursing assistant
+He's a caregiver
+He's a medical engineer.
+He's a social worker
+He's a mental health and social worker.
+He's a counselor
+He's a youth instructor
+He's a career counselor
+He's a former support specialist
+He's a job support officer
+He's a career coach
+He's a social activist.
+He's a nursery teacher
+He's a welfare center life instructor.
+He's a pastor
+He is a monk
+He's a preacher
+He's a fortune teller
+He's a shaman
+He's a stenographer
+He's a publisher
+He's a poet
+He's a game scenario writer.
+He's a critic
+He's a broadcasting writer
+He's a lyricist
+He's a copywriter.
+He's a cinematographer.
+He's a novelist
+He's a translator
+He's an interpreter
+He's a publisher
+He's a curator
+He's an art consultant.
+He's a cultural asset preserver
+He's a librarian
+He's a record manager.
+He's a magazine reporter
+He's a commentator
+He's an editor
+He's a broadcaster
+He's a newspaper reporter
+He's a sculptor
+He's a painter
+He's a calligrapher
+He's a photographer
+He's a photographer
+He's a cartoonist
+He's animator.
+He's a traditional artist
+He's a Korean musician
+He's the conductor
+He's a musician
+He's a composer
+He's a vocalist
+He's a singer
+He's a dancer
+He's a back dancer
+He's a choreographer
+He's a furniture designer
+He's a lighting designer
+He's a cell phone designer
+He's a toy designer
+He's a car designer
+He's a jewelery designer
+He's a textile designer.
+He's a designer in underwear
+He's a fashion designer
+He's a shoe designer
+He's a bag designer
+He's a designer in the interior.
+He's a stage designer
+He's an interior designer
+He's a visual mechanic.
+He's a visual designer
+He's an advertising designer
+He's a book designer
+He's a fiopi designer.
+He's a colorist
+He's a character designer
+He's a packaging designer
+He's an illustrator.
+He's a web designer.
+He's a visual graphic designer.
+He's a game graphic designer.
+He's Cad One.
+He's a film director
+He's a theater director
+He's a music planner
+He's the director of advertising
+He's a theater director
+He's a television director
+He's a voice actor
+He's a stuntman.
+He's a comedian
+He's a movie star
+He's a theater actor
+He's a model
+He's a race announcer
+He's a disc jockey
+He's a video jockey
+He's a weather caster
+He's a reporter
+He's the host of the entertainment program
+He's a shopping host
+He's an announcer
+He's a photographer
+He's a photographer
+He's an acoustician
+He's a video story
+He's a lighting engineer
+He's a stage costume manager.
+He's a props clerk
+He's an entertainer manager.
+He's an aqua list.
+He's a magician
+He's a fashion coordinator.
+He's a webbiz.
+He's a craftsman
+He's a florist
+He's a ship operator.
+He's an air service manager.
+He's an aircraft pilot
+He's a helicopter pilot
+He's a sailor
+He's a ship engineer
+He's a pilot
+He's an air traffic controller.
+He's a railroad traffic controller.
+He's a ship traffic controller.
+He's a railroad engineer
+He's Marshaller.
+He's a taxi driver
+He's a bus driver
+He's a small truck driver.
+He's a special-car driver.
+He's a big truck driver.
+He's a private driver.
+He's a crane driver.
+He's a forklift driver.
+He's a courier
+He's a mailman.
+He's a ship's deckman
+He's a ship engineer
+He's an electrical supervisor.
+He's a product planning expert
+He's a buyer
+He's a car dealer
+He's a commodity broker
+He's an auctioneer
+He's a ship broker
+He's a real estate consultant
+He's a real estate agent
+He's a shop salesman
+He's a tax-exempt salesman.
+He's a telecom salesman
+He's an Internet salesman
+He's a telemarketer.
+He's a rental agent
+He's a store cashier
+He's a ticket agent
+He's a lottery salesman
+He's a street vendor
+He's a mobile salesman
+He's a visiting salesman
+He's a main source of oil
+He's a public relations assistant.
+He's a promoter
+He's a store clerk
+He's a child care assistant.
+He's a bodyguard
+He's a petition police officer
+He's an unattended guard
+He's a security guard
+He's a cleaner
+He's a hotel room cleaner.
+He's an environmental cleaner
+He's a recyclables collector.
+He's a shoe shop
+He's a housekeeper
+He's a laundry man
+He's a meterman.
+He's a gas inspector
+He's a parking attendant
+He's a checker
+He's a user
+He's a hairdresser
+He's a skin care worker
+He's a bathkeeper
+He's a nail artist
+He's a special makeup man
+He's a makeup artist
+He's a dresser
+He's a pet hairdresser.
+He's a fashion advisor.
+He's an image consultant
+He's a personal shopper.
+He's a marriage counselor
+He's a wedding planner.
+He's a wedding worker
+He's a funeral instructor
+He's a travel product developer
+He's a travel clerk
+He's an overseas travel leader
+He's a natural environment guide
+He's a tour interpreter guide.
+He's a travel guide
+He's a flight attendant
+He's a ship attendant
+He's a train attendant
+He's a hotel concierge.
+He's a lodging service.
+He's a play facility worker
+He's the manager of the game
+He's a coach of the game
+He's a professional baseball player
+He's a professional racer
+He's a professional horse racer
+He's a car racer
+He's a professional volleyball player
+He's a professional golfer
+He's a professional basketball player
+He's a professional soccer player
+He's a judge of the game
+He's a game recorder
+He's a sports trainer.
+He's a recreation instructor.
+He's a sports instructor
+He's a baduk driver
+He's a sports agent
+He's a professional gamer
+He's a casino dealer
+He's a cheerleader
+He's a golf course caddy.
+He's a Korean cook
+He's a Chinese cook.
+He's a cook of aquaculture
+He's a Japanese cook
+He's a bartender
+He's a group food cook
+He's a barista
+He's a fast food restaurant
+He's a kitchen assistant
+He's a food delivery man
+He's a food stylist
+He's a sommelier
+He's a building safety engineer
+He's an eco-friendly architectural consultant
+He's a construction quotationist
+He's a building engineer.
+He's a construction supervisor.
+He's an architectural engineer.
+He's a construction engineer.
+He's a civil engineer.
+He's a civil engineering technician.
+He's a civil engineer.
+He's a civil engineering engineer.
+He's a civil safety environmental engineer.
+He's a traffic impact assessment.
+He's a traffic safety researcher
+He's a traffic planner
+He's a city planner
+He's a surveyor
+He's a photographer
+He's a mapmaker.
+He's a geographer.
+He's a construction material tester.
+He's a steelworker
+He's a rebar ball
+He's a concrete ball
+He's an architectural stonemason
+He's an architectural carpenter
+He's a traditional building builder.
+He's a hairdresser
+He's a waterproofing man
+He's a flooring park
+He's a glass anchor
+He's a plumber
+He's a building painter
+He's a construction plumber
+He's a mining machine operator.
+He's a light source
+He's a quarry
+He's a stone cutter
+He's a railroad repairman
+He's a diver
+He's a gunpowder manager.
+He's a mechanical engineer
+He's a shipbuilding engineer
+He's a plant mechanic.
+He's a robotic engineer
+He's a railroad engineer.
+He's a cooler and heater engineer.
+He's an engine engineer.
+He's a construction engineer.
+He's a mechatronics engineer.
+He's an aeronautical engineer
+He's an auto engineer
+He's a mechanical engineering tester.
+He's an industrial mechanic.
+He's an elevator mechanic.
+He's a mechanic.
+He's a boiler maintenance worker.
+He's a construction worker
+He's an agricultural mechanic.
+He's a helicopter mechanic
+He's an aircraft mechanic
+He's a ship repairman
+He's a railroad train mechanic.
+He's a motorcycle mechanic
+He's a car repairman
+He's a mold man
+He's a metalworker.
+He's a manipulator for heating and cooling.
+He's a car assemblyman
+He's a car parts assemblyman.
+He's a transport assemblyman.
+He's a ship assemblyman
+He's a railroad car assemblyman.
+He's a tool manufacturer.
+He's a metallic engineer
+He's a material engineer
+He's a nanoengineering man
+He's a metallic engineer
+He's a welder
+He's a plating house
+He's a glass maker
+He's a production source for clay.
+He's a manufacturer of mineral products
+He's a rock house.
+He's an appraiser
+He's a steward
+He's a chemical engineering tester.
+He's a fuel cell researcher.
+He's a textile engineer.
+He's a dye tester.
+He's a textile-related grade inspector.
+He's a hanbok manufacturer
+He's a suit manufacturer
+He's a leather clothing manufacturer.
+He's a fur repairman.
+He's a clothing inspector.
+He's a Patterner
+He's a tailor
+He's a seamstress
+He's a flower gardener
+He's a transmission and distribution engineer.
+He's an electrical safety engineer
+He's a power plant engineer.
+He's an electrical control engineer.
+He's an electrical product development engineer.
+He's an electronics developer.
+He's a semiconductor engineer
+He's an electronic medical device development engineer.
+He's a computer repairman
+He's a repairman for office equipment.
+He's a home appliance repairman.
+He's a generator operator.
+He's an electronic operator.
+He's an electrical manufacturer
+He's a gas energy engineer.
+He's a solar researcher
+He's a wind researcher.
+He's a solar power researcher.
+He's a video story
+He's a digital imaging expert.
+He's a computer hardware engineer.
+He's a communications engineer.
+He's a communications technology developer
+He's a satellite development agency.
+He's a communications engineer.
+He's a computer system supervisor.
+He's a computer system design analyst.
+He's a developer of the management information system.
+He's an information and communication consultant
+He's a network programmer
+He's a network engineer
+He's a computer security expert
+He's a system software developer
+He's an application software developer
+He's an augmented reality expert.
+He's a game programmer
+He's a voice processing expert
+He's an application software developer.
+He's a web developer
+He's a webmaster
+He's a web programmer.
+He's a web engineer.
+He's a web planner
+He's an animation planner
+He's a game planner
+He's a database developer
+He's an information system operator.
+He's a network manager
+He's a technical support expert
+He's a communications engineer.
+He's a televised engineer.
+He's a video equipment repairman.
+He's a telecom repairman.
+He's an Internet cable installer
+He's a food engineering engineer
+He's a food testing institute
+He's a baker
+He's a confectionery worker
+He's a rice cake maker
+He's a HanDo crew.
+He's a butcher
+He's a slaughterhouse
+He's a man who makes a side dish.
+He's a tobacco classmate
+He's a food grader
+He's a dairy processing machine operator.
+He's a milling machine operator.
+He's a road-machine operator.
+He's a grain processing machine operator.
+He's a Drink Manufacturer.
+He's a tobacco manipulator.
+He's a life sciences researcher
+He's a marine fisheries engineer.
+He's a plumbing servitor
+He's a pest control worker
+He's an expert on pest control.
+He's an environmental engineer
+He's a GHC inspector.
+He's an environmental consultant.
+He's a soil environmental engineer.
+He's an environmental impact assessment agent.
+He's a noise-vibration engineer.
+He's a waste disposal engineer.
+He's an atmospheric engineer.
+He's a water quality engineer.
+He's an environmental engineering tester.
+He's an eco-friendly product certification examiner.
+He's an environmental engineering tester.
+He's an environmental inspector
+He's a gas energy engineer.
+He's a bioenergy researcher.
+He's a nuclear engineering engineer.
+He's a fire engineering engineer
+He's a fire engineering engineer
+He's a nondestructive inspector.
+He's an industrial safety officer
+He's a risk officer
+He's an energy specialist
+He's an energy tester
+He's a water and sewage manipulator.
+He's a recycling agent
+He's an incinerator operator.
+He's a printer operator.
+He's a photographer.
+He's a wood park
+He's a paper producer
+He's a furniture manufacturer
+He's a furniture repairman
+He's a furniture assemblyman
+He's a furniture inspector
+He's a craftsman
+He's a clay craftsman
+He's a Hanji craftsman
+He's a three-park gem
+He's a manufacturer of musical instruments
+He's a tuner
+He's a mechanic
+He's a sign maker
+He's a sign-in installer
+He's a packing house
+He's a grain grower.
+He's a special crop grower.
+He's a vegetable grower.
+He's a fruit crop grower.
+He's a gardener.
+He's a flower crop grower.
+He's a landscape gardener
+He's a livestock breeder.
+He's an animal trainer
+He's a lumber house
+He's a farm
+He's a fisherman
+He's an army officer
+He's an air force officer
+He's a naval officer.
+He's an army sergeant.
+He's a Air Force NCO.
+He's a navy sergeant.
+He's a climate change expert
+He's a forestry researcher
+He's an architect
+He's an architectural engineer
+He's a landscape engineer

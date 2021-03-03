@@ -15,4 +15,5 @@ Seven sentence sets are uploaded.
 <image src="https://github.com/nolongerprejudice/tgbi/blob/master/image/table1.PNG" width="800"><br/>
   
 ### Code
-To be added.
+Original codes updated (2021.03.03).
+Further processing is required for the calculation of the proposed metric.
